@@ -83,7 +83,7 @@ def annotate(text, org, rows):
             + "<!-- PROGRESS:END -->" + link.sub(sub, tail))
 
 
-def render(org, rows):
+def render(org, rows, repos):
     tracked = [(n, d, l) for n, d, l in rows if d is not None and d + l > 0]
     untracked = sorted(n for n, d, l in rows if d is None or d + l == 0)
     done = sum(d for _, d, _ in tracked)
@@ -110,6 +110,22 @@ def render(org, rows):
         p = 100 * d / (d + l)
         out.append(f"| [{n}](https://github.com/{org}/{n}) | {d} | {l} | `{bar(p)}` {p:.0f}% |")
     out += ["", "</details>"]
+
+    no_file = sorted(n for n, d, l in rows if d is None)
+    no_boxes = sorted(n for n, d, l in rows if d is not None and d + l == 0)
+    no_desc = sorted(r["name"] for r in repos if not (r.get("description") or "").strip())
+
+    def link(n):
+        return f"[{n}](https://github.com/{org}/{n})"
+
+    out += ["", "#### Needs attention", "",
+            f"<details><summary>No <code>todo.md</code> ({len(no_file)})</summary>", "",
+            ", ".join(link(n) for n in no_file) or "_None_", "", "</details>", ""]
+    if no_boxes:
+        out += [f"<details><summary><code>todo.md</code> has no checkboxes ({len(no_boxes)})</summary>", "",
+                ", ".join(link(n) for n in no_boxes), "", "</details>", ""]
+    out += [f"<details><summary>No GitHub description ({len(no_desc)})</summary>", "",
+            ", ".join(link(n) for n in no_desc) or "_None_", "", "</details>"]
     return "\n".join(out)
 
 
@@ -123,7 +139,7 @@ def main():
     repos = list_repos(args.org, token)
     with cf.ThreadPoolExecutor(16) as ex:
         rows = list(ex.map(lambda r: count(args.org, r), repos))
-    block = render(args.org, rows)
+    block = render(args.org, rows, repos)
 
     with open(args.readme, encoding="utf-8") as f:
         text = f.read()

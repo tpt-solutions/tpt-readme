@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**29,635 of 36,776 tasks complete — 80.6%** `████████████████░░░░`
+**29,902 of 36,774 tasks complete — 81.3%** `████████████████░░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 29,635 | 7,141 | 36,776 | 290 | 26 |
+| 29,902 | 6,872 | 36,774 | 290 | 27 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-09-30 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-10-01 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -58,12 +58,14 @@
 | [tpt-titan](https://github.com/tpt-solutions/tpt-titan) | 68 | 0 | `██████████` 100% |
 | [tpt-water](https://github.com/tpt-solutions/tpt-water) | 152 | 0 | `██████████` 100% |
 | [tpt-water-utility](https://github.com/tpt-solutions/tpt-water-utility) | 35 | 0 | `██████████` 100% |
+| [tpt-shipyard](https://github.com/tpt-solutions/tpt-shipyard) | 308 | 1 | `██████████` 100% |
 | [tpt-proto](https://github.com/tpt-solutions/tpt-proto) | 299 | 1 | `██████████` 100% |
 | [tpt-free-erp](https://github.com/tpt-solutions/tpt-free-erp) | 444 | 2 | `██████████` 100% |
 | [tpt-biosig](https://github.com/tpt-solutions/tpt-biosig) | 202 | 1 | `██████████` 100% |
 | [tpt-uir](https://github.com/tpt-solutions/tpt-uir) | 160 | 1 | `██████████` 99% |
 | [tpt-cerebrum](https://github.com/tpt-solutions/tpt-cerebrum) | 152 | 1 | `██████████` 99% |
 | [tpt-scheduler](https://github.com/tpt-solutions/tpt-scheduler) | 129 | 1 | `██████████` 99% |
+| [tpt-pwa](https://github.com/tpt-solutions/tpt-pwa) | 114 | 1 | `██████████` 99% |
 | [tpt-electronics](https://github.com/tpt-solutions/tpt-electronics) | 336 | 3 | `██████████` 99% |
 | [tpt-streamforge](https://github.com/tpt-solutions/tpt-streamforge) | 224 | 2 | `██████████` 99% |
 | [tpt-cadence](https://github.com/tpt-solutions/tpt-cadence) | 111 | 1 | `██████████` 99% |
@@ -121,12 +123,12 @@
 | [tpt-datastack-nz](https://github.com/tpt-solutions/tpt-datastack-nz) | 118 | 5 | `██████████` 96% |
 | [tpt-glyph](https://github.com/tpt-solutions/tpt-glyph) | 116 | 5 | `██████████` 96% |
 | [tpt-dsp](https://github.com/tpt-solutions/tpt-dsp) | 114 | 5 | `██████████` 96% |
+| [tpt-proto20](https://github.com/tpt-solutions/tpt-proto20) | 498 | 22 | `██████████` 96% |
 | [tpt-aura](https://github.com/tpt-solutions/tpt-aura) | 90 | 4 | `██████████` 96% |
 | [tpt-eve](https://github.com/tpt-solutions/tpt-eve) | 112 | 5 | `██████████` 96% |
 | [tpt-archon](https://github.com/tpt-solutions/tpt-archon) | 201 | 9 | `██████████` 96% |
 | [tpt-teleop-agri](https://github.com/tpt-solutions/tpt-teleop-agri) | 89 | 4 | `██████████` 96% |
 | [tpt-identity](https://github.com/tpt-solutions/tpt-identity) | 88 | 4 | `██████████` 96% |
-| [tpt-pwa](https://github.com/tpt-solutions/tpt-pwa) | 110 | 5 | `██████████` 96% |
 | [tpt-substrate](https://github.com/tpt-solutions/tpt-substrate) | 43 | 2 | `██████████` 96% |
 | [tpt-lattice](https://github.com/tpt-solutions/tpt-lattice) | 149 | 7 | `██████████` 96% |
 | [tpt-av-sync](https://github.com/tpt-solutions/tpt-av-sync) | 165 | 8 | `██████████` 95% |
@@ -150,7 +152,6 @@
 | [tpt-silicon](https://github.com/tpt-solutions/tpt-silicon) | 82 | 5 | `█████████░` 94% |
 | [tpt-rust6](https://github.com/tpt-solutions/tpt-rust6) | 130 | 8 | `█████████░` 94% |
 | [tpt-tektos](https://github.com/tpt-solutions/tpt-tektos) | 65 | 4 | `█████████░` 94% |
-| [tpt-shipyard](https://github.com/tpt-solutions/tpt-shipyard) | 290 | 18 | `█████████░` 94% |
 | [tpt-xml](https://github.com/tpt-solutions/tpt-xml) | 78 | 5 | `█████████░` 94% |
 | [tpt-formal-lab](https://github.com/tpt-solutions/tpt-formal-lab) | 153 | 10 | `█████████░` 94% |
 | [tpt-crucible-py](https://github.com/tpt-solutions/tpt-crucible-py) | 580 | 38 | `█████████░` 94% |
@@ -160,6 +161,7 @@
 | [tpt-syntaxis](https://github.com/tpt-solutions/tpt-syntaxis) | 28 | 2 | `█████████░` 93% |
 | [tpt-zero-text](https://github.com/tpt-solutions/tpt-zero-text) | 377 | 28 | `█████████░` 93% |
 | [tpt-beacon](https://github.com/tpt-solutions/tpt-beacon) | 104 | 8 | `█████████░` 93% |
+| [tpt-axiom](https://github.com/tpt-solutions/tpt-axiom) | 153 | 12 | `█████████░` 93% |
 | [tpt-kv-quant](https://github.com/tpt-solutions/tpt-kv-quant) | 48 | 4 | `█████████░` 92% |
 | [tpt-fab](https://github.com/tpt-solutions/tpt-fab) | 45 | 4 | `█████████░` 92% |
 | [tpt-net-async](https://github.com/tpt-solutions/tpt-net-async) | 45 | 4 | `█████████░` 92% |
@@ -195,6 +197,7 @@
 | [tpt-fabric](https://github.com/tpt-solutions/tpt-fabric) | 131 | 17 | `█████████░` 89% |
 | [tpt-cortex](https://github.com/tpt-solutions/tpt-cortex) | 100 | 13 | `█████████░` 88% |
 | [tpt-odyssey](https://github.com/tpt-solutions/tpt-odyssey) | 51 | 7 | `█████████░` 88% |
+| [tpt-medical](https://github.com/tpt-solutions/tpt-medical) | 159 | 22 | `█████████░` 88% |
 | [tpt-healthcare-nz](https://github.com/tpt-solutions/tpt-healthcare-nz) | 106 | 15 | `█████████░` 88% |
 | [tpt-weave](https://github.com/tpt-solutions/tpt-weave) | 279 | 40 | `█████████░` 87% |
 | [tpt-electromagnetics](https://github.com/tpt-solutions/tpt-electromagnetics) | 110 | 16 | `█████████░` 87% |
@@ -204,7 +207,6 @@
 | [tpt-rust4](https://github.com/tpt-solutions/tpt-rust4) | 83 | 13 | `█████████░` 86% |
 | [tpt-terminal-ui](https://github.com/tpt-solutions/tpt-terminal-ui) | 76 | 12 | `█████████░` 86% |
 | [tpt-soma](https://github.com/tpt-solutions/tpt-soma) | 107 | 17 | `█████████░` 86% |
-| [tpt-medical](https://github.com/tpt-solutions/tpt-medical) | 156 | 25 | `█████████░` 86% |
 | [tpt-capsec](https://github.com/tpt-solutions/tpt-capsec) | 98 | 16 | `█████████░` 86% |
 | [tpt-cli](https://github.com/tpt-solutions/tpt-cli) | 49 | 8 | `█████████░` 86% |
 | [tpt-netctl](https://github.com/tpt-solutions/tpt-netctl) | 48 | 8 | `█████████░` 86% |
@@ -223,12 +225,14 @@
 | [tpt-av](https://github.com/tpt-solutions/tpt-av) | 81 | 19 | `████████░░` 81% |
 | [tpt-aegis](https://github.com/tpt-solutions/tpt-aegis) | 105 | 25 | `████████░░` 81% |
 | [tpt-ate](https://github.com/tpt-solutions/tpt-ate) | 25 | 6 | `████████░░` 81% |
+| [tpt-crypto](https://github.com/tpt-solutions/tpt-crypto) | 95 | 23 | `████████░░` 81% |
 | [tpt-crucible](https://github.com/tpt-solutions/tpt-crucible) | 86 | 21 | `████████░░` 80% |
 | [tpt-oikos](https://github.com/tpt-solutions/tpt-oikos) | 45 | 11 | `████████░░` 80% |
 | [tpt-pattern](https://github.com/tpt-solutions/tpt-pattern) | 49 | 12 | `████████░░` 80% |
 | [tpt-vanguard](https://github.com/tpt-solutions/tpt-vanguard) | 65 | 16 | `████████░░` 80% |
 | [tpt-clipboard](https://github.com/tpt-solutions/tpt-clipboard) | 20 | 5 | `████████░░` 80% |
 | [tpt-astrobus](https://github.com/tpt-solutions/tpt-astrobus) | 82 | 21 | `████████░░` 80% |
+| [tpt-doc](https://github.com/tpt-solutions/tpt-doc) | 90 | 24 | `████████░░` 79% |
 | [tpt-online-video](https://github.com/tpt-solutions/tpt-online-video) | 690 | 184 | `████████░░` 79% |
 | [tpt-quant-core](https://github.com/tpt-solutions/tpt-quant-core) | 41 | 11 | `████████░░` 79% |
 | [tpt-aion](https://github.com/tpt-solutions/tpt-aion) | 33 | 9 | `████████░░` 79% |
@@ -243,9 +247,7 @@
 | [tpt-cobalt](https://github.com/tpt-solutions/tpt-cobalt) | 108 | 33 | `████████░░` 77% |
 | [tpt-gameforge](https://github.com/tpt-solutions/tpt-gameforge) | 75 | 23 | `████████░░` 77% |
 | [tpt-helm](https://github.com/tpt-solutions/tpt-helm) | 48 | 15 | `████████░░` 76% |
-| [tpt-crypto](https://github.com/tpt-solutions/tpt-crypto) | 91 | 30 | `████████░░` 75% |
 | [tpt-q-phase](https://github.com/tpt-solutions/tpt-q-phase) | 38 | 13 | `███████░░░` 75% |
-| [tpt-proto20](https://github.com/tpt-solutions/tpt-proto20) | 383 | 137 | `███████░░░` 74% |
 | [tpt-wasmforge](https://github.com/tpt-solutions/tpt-wasmforge) | 50 | 19 | `███████░░░` 72% |
 | [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm) | 132 | 51 | `███████░░░` 72% |
 | [tpt-rfc](https://github.com/tpt-solutions/tpt-rfc) | 242 | 106 | `███████░░░` 70% |
@@ -258,7 +260,6 @@
 | [tpt-helix](https://github.com/tpt-solutions/tpt-helix) | 85 | 47 | `██████░░░░` 64% |
 | [tpt-building-designer](https://github.com/tpt-solutions/tpt-building-designer) | 32 | 18 | `██████░░░░` 64% |
 | [tpt-ignis](https://github.com/tpt-solutions/tpt-ignis) | 22 | 13 | `██████░░░░` 63% |
-| [tpt-axiom](https://github.com/tpt-solutions/tpt-axiom) | 103 | 62 | `██████░░░░` 62% |
 | [tpt-warden](https://github.com/tpt-solutions/tpt-warden) | 41 | 25 | `██████░░░░` 62% |
 | [tpt-morph](https://github.com/tpt-solutions/tpt-morph) | 35 | 24 | `██████░░░░` 59% |
 | [tpt-mathica](https://github.com/tpt-solutions/tpt-mathica) | 21 | 17 | `██████░░░░` 55% |
@@ -271,7 +272,6 @@
 | [tpt-power-utility](https://github.com/tpt-solutions/tpt-power-utility) | 105 | 183 | `████░░░░░░` 36% |
 | [tpt-env](https://github.com/tpt-solutions/tpt-env) | 31 | 57 | `████░░░░░░` 35% |
 | [tpt-mcpbox](https://github.com/tpt-solutions/tpt-mcpbox) | 31 | 92 | `███░░░░░░░` 25% |
-| [tpt-doc](https://github.com/tpt-solutions/tpt-doc) | 17 | 97 | `█░░░░░░░░░` 15% |
 | [tpt-ms-vs](https://github.com/tpt-solutions/tpt-ms-vs) | 5 | 92 | `█░░░░░░░░░` 5% |
 | [tpt-conductor](https://github.com/tpt-solutions/tpt-conductor) | 2 | 56 | `░░░░░░░░░░` 3% |
 | [tpt-concord](https://github.com/tpt-solutions/tpt-concord) | 2 | 114 | `░░░░░░░░░░` 2% |
@@ -315,6 +315,26 @@
 | [tpt-webrtc](https://github.com/tpt-solutions/tpt-webrtc) | 0 | 179 | `░░░░░░░░░░` 0% |
 | [tpt-workspaces](https://github.com/tpt-solutions/tpt-workspaces) | 0 | 48 | `░░░░░░░░░░` 0% |
 | [tpt-zones](https://github.com/tpt-solutions/tpt-zones) | 0 | 66 | `░░░░░░░░░░` 0% |
+
+</details>
+
+#### Needs attention
+
+<details><summary>No <code>todo.md</code> (19)</summary>
+
+[tpt-airport-control](https://github.com/tpt-solutions/tpt-airport-control), [tpt-credentials-nz](https://github.com/tpt-solutions/tpt-credentials-nz), [tpt-decentralized-social](https://github.com/tpt-solutions/tpt-decentralized-social), [tpt-gets-nz](https://github.com/tpt-solutions/tpt-gets-nz), [tpt-government](https://github.com/tpt-solutions/tpt-government), [tpt-local-emergency](https://github.com/tpt-solutions/tpt-local-emergency), [tpt-marketplace-nz](https://github.com/tpt-solutions/tpt-marketplace-nz), [tpt-millenium](https://github.com/tpt-solutions/tpt-millenium), [tpt-mixer](https://github.com/tpt-solutions/tpt-mixer), [tpt-ms-ad](https://github.com/tpt-solutions/tpt-ms-ad), [tpt-ms-cp](https://github.com/tpt-solutions/tpt-ms-cp), [tpt-ms-ex](https://github.com/tpt-solutions/tpt-ms-ex), [tpt-payment-merchant](https://github.com/tpt-solutions/tpt-payment-merchant), [tpt-payments](https://github.com/tpt-solutions/tpt-payments), [tpt-physics-engine](https://github.com/tpt-solutions/tpt-physics-engine), [tpt-poa-registry-nz](https://github.com/tpt-solutions/tpt-poa-registry-nz), [tpt-readme](https://github.com/tpt-solutions/tpt-readme), [tpt-resource-consent-nz](https://github.com/tpt-solutions/tpt-resource-consent-nz), [tpt-transport](https://github.com/tpt-solutions/tpt-transport)
+
+</details>
+
+<details><summary><code>todo.md</code> has no checkboxes (8)</summary>
+
+[tpt-emergency](https://github.com/tpt-solutions/tpt-emergency), [tpt-hermes](https://github.com/tpt-solutions/tpt-hermes), [tpt-infrastructure-engineer](https://github.com/tpt-solutions/tpt-infrastructure-engineer), [tpt-novacore](https://github.com/tpt-solutions/tpt-novacore), [tpt-rust5](https://github.com/tpt-solutions/tpt-rust5), [tpt-spectra](https://github.com/tpt-solutions/tpt-spectra), [tpt-teleop-marine](https://github.com/tpt-solutions/tpt-teleop-marine), [tpt-will-estate-nz](https://github.com/tpt-solutions/tpt-will-estate-nz)
+
+</details>
+
+<details><summary>No GitHub description (2)</summary>
+
+[tpt-biocad](https://github.com/tpt-solutions/tpt-biocad), [tpt-crucible](https://github.com/tpt-solutions/tpt-crucible)
 
 </details>
 <!-- PROGRESS:END -->
@@ -453,7 +473,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 | [tpt-certus](https://github.com/tpt-solutions/tpt-certus)<!--s--> 🚧 47%<!--/s--> | Formally verified 3D spatial library suite |
 | [tpt-statera](https://github.com/tpt-solutions/tpt-statera)<!--s--> ⏳ 0%<!--/s--> | Verified financial-invariant / ledger engine |
 | [tpt-norma](https://github.com/tpt-solutions/tpt-norma)<!--s--> ⏳ 0%<!--/s--> | Verified bounds on AI-agent actions (resource, time, safety) |
-| [tpt-axiom](https://github.com/tpt-solutions/tpt-axiom)<!--s--> 🚧 62%<!--/s--> | Probabilistic types and ZK circuit generation |
+| [tpt-axiom](https://github.com/tpt-solutions/tpt-axiom)<!--s--> 🚧 92%<!--/s--> | Probabilistic types and ZK circuit generation |
 | [tpt-augur](https://github.com/tpt-solutions/tpt-augur)<!--s--> 🚧 43%<!--/s--> | Probabilistic programming language with Bayesian inference |
 | [tpt-concord](https://github.com/tpt-solutions/tpt-concord)<!--s--> 🚧 1%<!--/s--> | Specs, claims and evidence as machine-readable conformance objects |
 | [tpt-ichnos](https://github.com/tpt-solutions/tpt-ichnos)<!--s--> ⏳ 0%<!--/s--> | AI-native debugging and forensic replay for verified software |
@@ -478,7 +498,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 | Repo | What it is |
 |---|---|
 | [tpt-proto](https://github.com/tpt-solutions/tpt-proto)<!--s--> 🚧 99%<!--/s--> | Clean-room Protocol Buffers–compatible ecosystem |
-| [tpt-proto20](https://github.com/tpt-solutions/tpt-proto20)<!--s--> 🚧 73%<!--/s--> | Schema-first contracts, binary wire format, RPC/streaming |
+| [tpt-proto20](https://github.com/tpt-solutions/tpt-proto20)<!--s--> 🚧 95%<!--/s--> | Schema-first contracts, binary wire format, RPC/streaming |
 | [tpt-rfc](https://github.com/tpt-solutions/tpt-rfc)<!--s--> 🚧 69%<!--/s--> | Clean-room implementations of IETF RFC protocols |
 | [tpt-asn1](https://github.com/tpt-solutions/tpt-asn1)<!--s--> 🚧 82%<!--/s--> | Zero-copy ASN.1 DER/BER/CER |
 | [tpt-yaml](https://github.com/tpt-solutions/tpt-yaml)<!--s--> 🚧 96%<!--/s--> | Dependency-free YAML: parser, serde, format-preserving edits, JSON Schema |
@@ -494,7 +514,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 ### Crypto, sandboxing & capability security
 | Repo | What it is |
 |---|---|
-| [tpt-crypto](https://github.com/tpt-solutions/tpt-crypto)<!--s--> 🚧 75%<!--/s--> | `no_std`, constant-time crypto incl. ML-KEM / ML-DSA |
+| [tpt-crypto](https://github.com/tpt-solutions/tpt-crypto)<!--s--> 🚧 80%<!--/s--> | `no_std`, constant-time crypto incl. ML-KEM / ML-DSA |
 | [tpt-linux-sandbox](https://github.com/tpt-solutions/tpt-linux-sandbox)<!--s--> 🚧 97%<!--/s--> | Landlock / seccomp / namespaces / cgroups sandboxing |
 | [tpt-privd](https://github.com/tpt-solutions/tpt-privd)<!--s--> 🚧 98%<!--/s--> | Unprivileged→privileged daemon primitive with audit log |
 | [tpt-writ](https://github.com/tpt-solutions/tpt-writ)<!--s--> 🚧 97%<!--/s--> | Proof-gated capability guard for MCP tool calls |
@@ -600,9 +620,9 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 | [tpt-nova](https://github.com/tpt-solutions/tpt-nova)<!--s--> 🚧 98%<!--/s--> | AI-native ECS real-time engine |
 | [tpt-gameforge](https://github.com/tpt-solutions/tpt-gameforge)<!--s--> 🚧 76%<!--/s--> | HTML5/WebGL game engine |
 | [tpt-pdf](https://github.com/tpt-solutions/tpt-pdf)<!--s--> 🚧 94%<!--/s--> · [tpt-glyph](https://github.com/tpt-solutions/tpt-glyph)<!--s--> 🚧 95%<!--/s--> · [tpt-wasmforge](https://github.com/tpt-solutions/tpt-wasmforge)<!--s--> 🚧 72%<!--/s--> | PDF processing · PDF/PS rendering · browser image/PDF |
-| [tpt-doc](https://github.com/tpt-solutions/tpt-doc)<!--s--> 🚧 14%<!--/s--> | OOXML, FHIR, EDIFACT, PDF, signatures |
+| [tpt-doc](https://github.com/tpt-solutions/tpt-doc)<!--s--> 🚧 78%<!--/s--> | OOXML, FHIR, EDIFACT, PDF, signatures |
 | [tpt-appfront](https://github.com/tpt-solutions/tpt-appfront)<!--s--> 🚧 96%<!--/s--> | Write UI once in Rust, render anywhere |
-| [tpt-pwa](https://github.com/tpt-solutions/tpt-pwa)<!--s--> 🚧 95%<!--/s--> · [tpt-cortex](https://github.com/tpt-solutions/tpt-cortex)<!--s--> 🚧 88%<!--/s--> | Offline-first PWA framework · native powers for PWAs |
+| [tpt-pwa](https://github.com/tpt-solutions/tpt-pwa)<!--s--> 🚧 99%<!--/s--> · [tpt-cortex](https://github.com/tpt-solutions/tpt-cortex)<!--s--> 🚧 88%<!--/s--> | Offline-first PWA framework · native powers for PWAs |
 
 ---
 
@@ -616,10 +636,10 @@ Built on `tpt-math`, `tpt-compute` and `tpt-formal`. Most are "pure-Rust, AI-nat
 | **Fluids, thermo, process** | [tpt-fluids](https://github.com/tpt-solutions/tpt-fluids)<!--s--> 🚧 97%<!--/s--> · [tpt-thermodynamics](https://github.com/tpt-solutions/tpt-thermodynamics)<!--s--> 🚧 85%<!--/s--> · [tpt-thermal](https://github.com/tpt-solutions/tpt-thermal)<!--s--> 🚧 78%<!--/s--> · [tpt-process](https://github.com/tpt-solutions/tpt-process)<!--s--> 🚧 97%<!--/s--> |
 | **Mechanics & structures** | [tpt-fem](https://github.com/tpt-solutions/tpt-fem)<!--s--> 🚧 97%<!--/s--> · [tpt-multibody-dynamics](https://github.com/tpt-solutions/tpt-multibody-dynamics)<!--s--> 🚧 94%<!--/s--> · [tpt-materials](https://github.com/tpt-solutions/tpt-materials)<!--s--> 🚧 98%<!--/s--> · [tpt-aero](https://github.com/tpt-solutions/tpt-aero)<!--s--> ⏳ 0%<!--/s--> · [tpt-transportation](https://github.com/tpt-solutions/tpt-transportation)<!--s--> 🚧 98%<!--/s--> |
 | **Waves & fields** | [tpt-optics](https://github.com/tpt-solutions/tpt-optics)<!--s--> ⏳ 0%<!--/s--> · [tpt-acoustics](https://github.com/tpt-solutions/tpt-acoustics)<!--s--> ⏳ 0%<!--/s--> · [tpt-electromagnetics](https://github.com/tpt-solutions/tpt-electromagnetics)<!--s--> 🚧 87%<!--/s--> · [tpt-electronics](https://github.com/tpt-solutions/tpt-electronics)<!--s--> 🚧 99%<!--/s--> |
-| **Chemistry & life sciences** | [tpt-chemistry](https://github.com/tpt-solutions/tpt-chemistry)<!--s--> ⏳ 0%<!--/s--> · [tpt-soma](https://github.com/tpt-solutions/tpt-soma)<!--s--> 🚧 86%<!--/s--> · [tpt-cerebrum](https://github.com/tpt-solutions/tpt-cerebrum)<!--s--> 🚧 99%<!--/s--> · [tpt-medical](https://github.com/tpt-solutions/tpt-medical)<!--s--> 🚧 86%<!--/s--> · [tpt-biosig](https://github.com/tpt-solutions/tpt-biosig)<!--s--> 🚧 99%<!--/s--> · [tpt-spectra](https://github.com/tpt-solutions/tpt-spectra)<!--s--> ❔<!--/s--> · [tpt-biocad](https://github.com/tpt-solutions/tpt-biocad)<!--s--> 🚧 90%<!--/s--> |
+| **Chemistry & life sciences** | [tpt-chemistry](https://github.com/tpt-solutions/tpt-chemistry)<!--s--> ⏳ 0%<!--/s--> · [tpt-soma](https://github.com/tpt-solutions/tpt-soma)<!--s--> 🚧 86%<!--/s--> · [tpt-cerebrum](https://github.com/tpt-solutions/tpt-cerebrum)<!--s--> 🚧 99%<!--/s--> · [tpt-medical](https://github.com/tpt-solutions/tpt-medical)<!--s--> 🚧 87%<!--/s--> · [tpt-biosig](https://github.com/tpt-solutions/tpt-biosig)<!--s--> 🚧 99%<!--/s--> · [tpt-spectra](https://github.com/tpt-solutions/tpt-spectra)<!--s--> ❔<!--/s--> · [tpt-biocad](https://github.com/tpt-solutions/tpt-biocad)<!--s--> 🚧 90%<!--/s--> |
 | **Control, estimation, simulation** | [tpt-control](https://github.com/tpt-solutions/tpt-control)<!--s--> ⏳ 0%<!--/s--> · [tpt-des](https://github.com/tpt-solutions/tpt-des)<!--s--> ⏳ 0%<!--/s--> · [tpt-perception](https://github.com/tpt-solutions/tpt-perception)<!--s--> ⏳ 0%<!--/s--> · [tpt-robotics](https://github.com/tpt-solutions/tpt-robotics)<!--s--> ✅<!--/s--> |
 | **Math & research** | [tpt-millenium](https://github.com/tpt-solutions/tpt-millenium)<!--s--> ❔<!--/s--> · [tpt-mathica](https://github.com/tpt-solutions/tpt-mathica)<!--s--> 🚧 55%<!--/s--> · [tpt-syntaxis](https://github.com/tpt-solutions/tpt-syntaxis)<!--s--> 🚧 93%<!--/s--> |
-| **Fabrication & EDA** | [tpt-fab](https://github.com/tpt-solutions/tpt-fab)<!--s--> 🚧 91%<!--/s--> · [tpt-ate](https://github.com/tpt-solutions/tpt-ate)<!--s--> 🚧 80%<!--/s--> · [tpt-silicon](https://github.com/tpt-solutions/tpt-silicon)<!--s--> 🚧 94%<!--/s--> · [tpt-shipyard](https://github.com/tpt-solutions/tpt-shipyard)<!--s--> 🚧 94%<!--/s--> · [tpt-biocad](https://github.com/tpt-solutions/tpt-biocad)<!--s--> 🚧 90%<!--/s--> |
+| **Fabrication & EDA** | [tpt-fab](https://github.com/tpt-solutions/tpt-fab)<!--s--> 🚧 91%<!--/s--> · [tpt-ate](https://github.com/tpt-solutions/tpt-ate)<!--s--> 🚧 80%<!--/s--> · [tpt-silicon](https://github.com/tpt-solutions/tpt-silicon)<!--s--> 🚧 94%<!--/s--> · [tpt-shipyard](https://github.com/tpt-solutions/tpt-shipyard)<!--s--> 🚧 99%<!--/s--> · [tpt-biocad](https://github.com/tpt-solutions/tpt-biocad)<!--s--> 🚧 90%<!--/s--> |
 
 ---
 
