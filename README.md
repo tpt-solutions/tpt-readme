@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**30,322 of 38,020 tasks complete — 79.8%** `████████████████░░░░`
+**30,467 of 38,720 tasks complete — 78.7%** `████████████████░░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 30,322 | 7,698 | 38,020 | 297 | 27 |
+| 30,467 | 8,253 | 38,720 | 299 | 27 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-10-05 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-10-06 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -69,7 +69,6 @@
 | [tpt-streamforge](https://github.com/tpt-solutions/tpt-streamforge) | 224 | 2 | `██████████` 99% |
 | [tpt-cadence](https://github.com/tpt-solutions/tpt-cadence) | 111 | 1 | `██████████` 99% |
 | [tpt-court](https://github.com/tpt-solutions/tpt-court) | 106 | 1 | `██████████` 99% |
-| [tpt-anvil](https://github.com/tpt-solutions/tpt-anvil) | 267 | 3 | `██████████` 99% |
 | [tpt-selenograph](https://github.com/tpt-solutions/tpt-selenograph) | 86 | 1 | `██████████` 99% |
 | [tpt-zero-formal](https://github.com/tpt-solutions/tpt-zero-formal) | 172 | 2 | `██████████` 99% |
 | [tpt-gatemesh](https://github.com/tpt-solutions/tpt-gatemesh) | 83 | 1 | `██████████` 99% |
@@ -87,6 +86,7 @@
 | [tpt-fathom](https://github.com/tpt-solutions/tpt-fathom) | 113 | 2 | `██████████` 98% |
 | [tpt-infer](https://github.com/tpt-solutions/tpt-infer) | 110 | 2 | `██████████` 98% |
 | [tpt-solver](https://github.com/tpt-solutions/tpt-solver) | 55 | 1 | `██████████` 98% |
+| [tpt-anvil](https://github.com/tpt-solutions/tpt-anvil) | 270 | 5 | `██████████` 98% |
 | [tpt-materials](https://github.com/tpt-solutions/tpt-materials) | 266 | 5 | `██████████` 98% |
 | [tpt-bluetooth-mesh](https://github.com/tpt-solutions/tpt-bluetooth-mesh) | 106 | 2 | `██████████` 98% |
 | [tpt-visual](https://github.com/tpt-solutions/tpt-visual) | 155 | 3 | `██████████` 98% |
@@ -106,7 +106,7 @@
 | [tpt-fluids](https://github.com/tpt-solutions/tpt-fluids) | 108 | 3 | `██████████` 97% |
 | [tpt-writ](https://github.com/tpt-solutions/tpt-writ) | 36 | 1 | `██████████` 97% |
 | [tpt-rust1](https://github.com/tpt-solutions/tpt-rust1) | 171 | 5 | `██████████` 97% |
-| [tpt-fem](https://github.com/tpt-solutions/tpt-fem) | 238 | 7 | `██████████` 97% |
+| [tpt-fem](https://github.com/tpt-solutions/tpt-fem) | 270 | 8 | `██████████` 97% |
 | [tpt-gpu](https://github.com/tpt-solutions/tpt-gpu) | 302 | 9 | `██████████` 97% |
 | [tpt-linux-sandbox](https://github.com/tpt-solutions/tpt-linux-sandbox) | 67 | 2 | `██████████` 97% |
 | [tpt-accessfix](https://github.com/tpt-solutions/tpt-accessfix) | 227 | 7 | `██████████` 97% |
@@ -273,6 +273,7 @@
 | [tpt-hearth](https://github.com/tpt-solutions/tpt-hearth) | 92 | 144 | `████░░░░░░` 39% |
 | [tpt-power-utility](https://github.com/tpt-solutions/tpt-power-utility) | 105 | 183 | `████░░░░░░` 36% |
 | [tpt-env](https://github.com/tpt-solutions/tpt-env) | 31 | 57 | `████░░░░░░` 35% |
+| [tpt-simd](https://github.com/tpt-solutions/tpt-simd) | 102 | 215 | `███░░░░░░░` 32% |
 | [tpt-webrtc](https://github.com/tpt-solutions/tpt-webrtc) | 47 | 132 | `███░░░░░░░` 26% |
 | [tpt-mcpbox](https://github.com/tpt-solutions/tpt-mcpbox) | 31 | 92 | `███░░░░░░░` 25% |
 | [tpt-hyle](https://github.com/tpt-solutions/tpt-hyle) | 8 | 67 | `█░░░░░░░░░` 11% |
@@ -281,6 +282,7 @@
 | [tpt-ms-vs](https://github.com/tpt-solutions/tpt-ms-vs) | 5 | 92 | `█░░░░░░░░░` 5% |
 | [tpt-senses](https://github.com/tpt-solutions/tpt-senses) | 8 | 152 | `░░░░░░░░░░` 5% |
 | [tpt-conductor](https://github.com/tpt-solutions/tpt-conductor) | 2 | 56 | `░░░░░░░░░░` 3% |
+| [tpt-profiler](https://github.com/tpt-solutions/tpt-profiler) | 8 | 337 | `░░░░░░░░░░` 2% |
 | [tpt-wslx](https://github.com/tpt-solutions/tpt-wslx) | 1 | 80 | `░░░░░░░░░░` 1% |
 | [tpt-acoustics](https://github.com/tpt-solutions/tpt-acoustics) | 0 | 81 | `░░░░░░░░░░` 0% |
 | [tpt-actuarial](https://github.com/tpt-solutions/tpt-actuarial) | 0 | 109 | `░░░░░░░░░░` 0% |
