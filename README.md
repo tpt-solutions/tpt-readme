@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**33,621 of 41,454 tasks complete — 81.1%** `████████████████░░░░`
+**33,720 of 41,560 tasks complete — 81.1%** `████████████████░░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 33,621 | 7,833 | 41,454 | 316 | 27 |
+| 33,720 | 7,840 | 41,560 | 316 | 27 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-10-14 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-10-15 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -42,7 +42,6 @@
 | [tpt-physics](https://github.com/tpt-solutions/tpt-physics) | 123 | 0 | `██████████` 100% |
 | [tpt-police](https://github.com/tpt-solutions/tpt-police) | 251 | 0 | `██████████` 100% |
 | [tpt-portcullis](https://github.com/tpt-solutions/tpt-portcullis) | 55 | 0 | `██████████` 100% |
-| [tpt-primitives](https://github.com/tpt-solutions/tpt-primitives) | 65 | 0 | `██████████` 100% |
 | [tpt-pwa](https://github.com/tpt-solutions/tpt-pwa) | 115 | 0 | `██████████` 100% |
 | [tpt-repro](https://github.com/tpt-solutions/tpt-repro) | 99 | 0 | `██████████` 100% |
 | [tpt-res](https://github.com/tpt-solutions/tpt-res) | 163 | 0 | `██████████` 100% |
@@ -188,6 +187,7 @@
 | [tpt-formal](https://github.com/tpt-solutions/tpt-formal) | 131 | 13 | `█████████░` 91% |
 | [tpt-voice](https://github.com/tpt-solutions/tpt-voice) | 80 | 8 | `█████████░` 91% |
 | [tpt-strategygraph](https://github.com/tpt-solutions/tpt-strategygraph) | 118 | 12 | `█████████░` 91% |
+| [tpt-primitives](https://github.com/tpt-solutions/tpt-primitives) | 98 | 10 | `█████████░` 91% |
 | [tpt-construction](https://github.com/tpt-solutions/tpt-construction) | 176 | 18 | `█████████░` 91% |
 | [tpt-biocad](https://github.com/tpt-solutions/tpt-biocad) | 58 | 6 | `█████████░` 91% |
 | [tpt-equinox](https://github.com/tpt-solutions/tpt-equinox) | 48 | 5 | `█████████░` 91% |
@@ -241,6 +241,7 @@
 | [tpt-diskview](https://github.com/tpt-solutions/tpt-diskview) | 42 | 9 | `████████░░` 82% |
 | [tpt-raglite](https://github.com/tpt-solutions/tpt-raglite) | 79 | 17 | `████████░░` 82% |
 | [tpt-av](https://github.com/tpt-solutions/tpt-av) | 81 | 19 | `████████░░` 81% |
+| [tpt-homestack](https://github.com/tpt-solutions/tpt-homestack) | 194 | 46 | `████████░░` 81% |
 | [tpt-aegis](https://github.com/tpt-solutions/tpt-aegis) | 105 | 25 | `████████░░` 81% |
 | [tpt-ate](https://github.com/tpt-solutions/tpt-ate) | 25 | 6 | `████████░░` 81% |
 | [tpt-crucible](https://github.com/tpt-solutions/tpt-crucible) | 86 | 21 | `████████░░` 80% |
@@ -267,7 +268,6 @@
 | [tpt-q-phase](https://github.com/tpt-solutions/tpt-q-phase) | 38 | 13 | `███████░░░` 75% |
 | [tpt-webrtc](https://github.com/tpt-solutions/tpt-webrtc) | 134 | 47 | `███████░░░` 74% |
 | [tpt-wasmforge](https://github.com/tpt-solutions/tpt-wasmforge) | 50 | 19 | `███████░░░` 72% |
-| [tpt-homestack](https://github.com/tpt-solutions/tpt-homestack) | 128 | 49 | `███████░░░` 72% |
 | [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm) | 132 | 51 | `███████░░░` 72% |
 | [tpt-press](https://github.com/tpt-solutions/tpt-press) | 80 | 31 | `███████░░░` 72% |
 | [tpt-moira](https://github.com/tpt-solutions/tpt-moira) | 95 | 40 | `███████░░░` 70% |
@@ -468,7 +468,7 @@ Zero-dependency, mostly `no_std` building blocks. Everything else can assume the
 | [tpt-zero-bytes](https://github.com/tpt-solutions/tpt-zero-bytes)<!--s--> 🚧 98%<!--/s--> | Zero-alloc encoding (base64/hex/varint/endian), checksums/CRC, hashing |
 | [tpt-zero-text](https://github.com/tpt-solutions/tpt-zero-text)<!--s--> 🚧 93%<!--/s--> | `no_std` text, parsing and math primitives — the "structural layer" of `tpt-zero-*` |
 | [tpt-zero-formal](https://github.com/tpt-solutions/tpt-zero-formal)<!--s--> 🚧 98%<!--/s--> | Runtime building blocks for verification, contracts and probabilistic computing |
-| [tpt-primitives](https://github.com/tpt-solutions/tpt-primitives)<!--s--> ✅<!--/s--> | Canonical shared primitives underpinning Fabric, Repro and Concord |
+| [tpt-primitives](https://github.com/tpt-solutions/tpt-primitives)<!--s--> 🚧 90%<!--/s--> | Canonical shared primitives underpinning Fabric, Repro and Concord |
 | [tpt-rust7](https://github.com/tpt-solutions/tpt-rust7)<!--s--> 🚧 83%<!--/s--> | Deterministic virtual time, CRDT merge traits, lifetime-bound telemetry |
 | [tpt-math](https://github.com/tpt-solutions/tpt-math)<!--s--> 🚧 98%<!--/s--> | Units, exact arithmetic, linear algebra, probability, stats, autodiff, symbolics |
 | [tpt-quant-core](https://github.com/tpt-solutions/tpt-quant-core)<!--s--> 🚧 78%<!--/s--> | `no_std` quantization primitives: scales, bit-packing, calibration |
