@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**33,768 of 41,714 tasks complete — 81.0%** `████████████████░░░░`
+**33,953 of 41,844 tasks complete — 81.1%** `████████████████░░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 33,768 | 7,946 | 41,714 | 317 | 27 |
+| 33,953 | 7,891 | 41,844 | 317 | 27 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-10-16 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-10-17 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -159,7 +159,6 @@
 | [tpt-local-ai](https://github.com/tpt-solutions/tpt-local-ai) | 138 | 8 | `█████████░` 95% |
 | [tpt-pdf](https://github.com/tpt-solutions/tpt-pdf) | 155 | 9 | `█████████░` 95% |
 | [tpt-foundryos](https://github.com/tpt-solutions/tpt-foundryos) | 102 | 6 | `█████████░` 94% |
-| [tpt-strata](https://github.com/tpt-solutions/tpt-strata) | 83 | 5 | `█████████░` 94% |
 | [tpt-chrysalis](https://github.com/tpt-solutions/tpt-chrysalis) | 82 | 5 | `█████████░` 94% |
 | [tpt-silicon](https://github.com/tpt-solutions/tpt-silicon) | 82 | 5 | `█████████░` 94% |
 | [tpt-rust6](https://github.com/tpt-solutions/tpt-rust6) | 130 | 8 | `█████████░` 94% |
@@ -211,6 +210,7 @@
 | [tpt-shipyard](https://github.com/tpt-solutions/tpt-shipyard) | 352 | 44 | `█████████░` 89% |
 | [tpt-law](https://github.com/tpt-solutions/tpt-law) | 79 | 10 | `█████████░` 89% |
 | [tpt-embedded-tools](https://github.com/tpt-solutions/tpt-embedded-tools) | 155 | 20 | `█████████░` 89% |
+| [tpt-strata](https://github.com/tpt-solutions/tpt-strata) | 193 | 25 | `█████████░` 89% |
 | [tpt-fabric](https://github.com/tpt-solutions/tpt-fabric) | 131 | 17 | `█████████░` 89% |
 | [tpt-cortex](https://github.com/tpt-solutions/tpt-cortex) | 100 | 13 | `█████████░` 88% |
 | [tpt-odyssey](https://github.com/tpt-solutions/tpt-odyssey) | 51 | 7 | `█████████░` 88% |
@@ -265,6 +265,7 @@
 | [tpt-cobalt](https://github.com/tpt-solutions/tpt-cobalt) | 108 | 33 | `████████░░` 77% |
 | [tpt-gameforge](https://github.com/tpt-solutions/tpt-gameforge) | 75 | 23 | `████████░░` 77% |
 | [tpt-helm](https://github.com/tpt-solutions/tpt-helm) | 48 | 15 | `████████░░` 76% |
+| [tpt-simd](https://github.com/tpt-solutions/tpt-simd) | 313 | 99 | `████████░░` 76% |
 | [tpt-q-phase](https://github.com/tpt-solutions/tpt-q-phase) | 38 | 13 | `███████░░░` 75% |
 | [tpt-webrtc](https://github.com/tpt-solutions/tpt-webrtc) | 134 | 47 | `███████░░░` 74% |
 | [tpt-wasmforge](https://github.com/tpt-solutions/tpt-wasmforge) | 50 | 19 | `███████░░░` 72% |
@@ -283,10 +284,9 @@
 | [tpt-ignis](https://github.com/tpt-solutions/tpt-ignis) | 22 | 13 | `██████░░░░` 63% |
 | [tpt-warden](https://github.com/tpt-solutions/tpt-warden) | 41 | 25 | `██████░░░░` 62% |
 | [tpt-morph](https://github.com/tpt-solutions/tpt-morph) | 35 | 24 | `██████░░░░` 59% |
-| [tpt-simd](https://github.com/tpt-solutions/tpt-simd) | 244 | 168 | `██████░░░░` 59% |
+| [tpt-certus](https://github.com/tpt-solutions/tpt-certus) | 41 | 32 | `██████░░░░` 56% |
 | [tpt-mathica](https://github.com/tpt-solutions/tpt-mathica) | 21 | 17 | `██████░░░░` 55% |
 | [tpt-compute](https://github.com/tpt-solutions/tpt-compute) | 28 | 29 | `█████░░░░░` 49% |
-| [tpt-certus](https://github.com/tpt-solutions/tpt-certus) | 35 | 38 | `█████░░░░░` 48% |
 | [tpt-profiler](https://github.com/tpt-solutions/tpt-profiler) | 161 | 184 | `█████░░░░░` 47% |
 | [tpt-mcpbox](https://github.com/tpt-solutions/tpt-mcpbox) | 51 | 61 | `█████░░░░░` 46% |
 | [tpt-pantheon](https://github.com/tpt-solutions/tpt-pantheon) | 23 | 30 | `████░░░░░░` 43% |
@@ -497,7 +497,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 | [tpt-systems-optimisation](https://github.com/tpt-solutions/tpt-systems-optimisation)<!--s--> 🚧 85%<!--/s--> | MILP, MINLP, network flow, constraint programming |
 | [tpt-mathica](https://github.com/tpt-solutions/tpt-mathica)<!--s--> 🚧 55%<!--/s--> | Proof kernel, counterexample search, conjecture generation |
 | [tpt-syntaxis](https://github.com/tpt-solutions/tpt-syntaxis)<!--s--> 🚧 93%<!--/s--> | Rust + Lean 4 theorem discovery and verification |
-| [tpt-certus](https://github.com/tpt-solutions/tpt-certus)<!--s--> 🚧 47%<!--/s--> | Formally verified 3D spatial library suite |
+| [tpt-certus](https://github.com/tpt-solutions/tpt-certus)<!--s--> 🚧 56%<!--/s--> | Formally verified 3D spatial library suite |
 | [tpt-statera](https://github.com/tpt-solutions/tpt-statera)<!--s--> ⏳ 0%<!--/s--> | Verified financial-invariant / ledger engine |
 | [tpt-norma](https://github.com/tpt-solutions/tpt-norma)<!--s--> ⏳ 0%<!--/s--> | Verified bounds on AI-agent actions (resource, time, safety) |
 | [tpt-axiom](https://github.com/tpt-solutions/tpt-axiom)<!--s--> 🚧 98%<!--/s--> | Probabilistic types and ZK circuit generation |
@@ -615,7 +615,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 | [tpt-keystone-db](https://github.com/tpt-solutions/tpt-keystone-db)<!--s--> 🚧 98%<!--/s--> | Multi-engine data platform (relational, geo, graph, vector, time-series…) |
 | [tpt-archon](https://github.com/tpt-solutions/tpt-archon)<!--s--> 🚧 95%<!--/s--> | Storage engine + capability microkernel + database stack |
 | [tpt-pantheon](https://github.com/tpt-solutions/tpt-pantheon)<!--s--> 🚧 43%<!--/s--> | Self-contained platform as one workspace with unified storage |
-| [tpt-strata](https://github.com/tpt-solutions/tpt-strata)<!--s--> 🚧 94%<!--/s--> | Embeddable columnar query engine |
+| [tpt-strata](https://github.com/tpt-solutions/tpt-strata)<!--s--> 🚧 88%<!--/s--> | Embeddable columnar query engine |
 | [tpt-search](https://github.com/tpt-solutions/tpt-search)<!--s--> ⏳ 0%<!--/s--> | Hybrid scalar / vector / graph search with CRDT replication |
 | [tpt-streamforge](https://github.com/tpt-solutions/tpt-streamforge)<!--s--> 🚧 99%<!--/s--> | Zero-copy streaming ETL |
 | [tpt-synapse](https://github.com/tpt-solutions/tpt-synapse)<!--s--> 🚧 90%<!--/s--> | MQTT/Kafka/AMQP/Redis broker over shared storage |
