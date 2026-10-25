@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**35,891 of 43,182 tasks complete — 83.1%** `█████████████████░░░`
+**36,145 of 43,354 tasks complete — 83.4%** `█████████████████░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 35,891 | 7,291 | 43,182 | 321 | 27 |
+| 36,145 | 7,209 | 43,354 | 321 | 27 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-10-24 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-10-25 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -70,6 +70,7 @@
 | [tpt-court](https://github.com/tpt-solutions/tpt-court) | 106 | 1 | `██████████` 99% |
 | [tpt-selenograph](https://github.com/tpt-solutions/tpt-selenograph) | 86 | 1 | `██████████` 99% |
 | [tpt-zero-formal](https://github.com/tpt-solutions/tpt-zero-formal) | 172 | 2 | `██████████` 99% |
+| [tpt-version](https://github.com/tpt-solutions/tpt-version) | 85 | 1 | `██████████` 99% |
 | [tpt-gatemesh](https://github.com/tpt-solutions/tpt-gatemesh) | 83 | 1 | `██████████` 99% |
 | [tpt-transportation](https://github.com/tpt-solutions/tpt-transportation) | 246 | 3 | `██████████` 99% |
 | [tpt-axiom](https://github.com/tpt-solutions/tpt-axiom) | 163 | 2 | `██████████` 99% |
@@ -139,7 +140,6 @@
 | [tpt-eve](https://github.com/tpt-solutions/tpt-eve) | 112 | 5 | `██████████` 96% |
 | [tpt-archon](https://github.com/tpt-solutions/tpt-archon) | 201 | 9 | `██████████` 96% |
 | [tpt-teleop-agri](https://github.com/tpt-solutions/tpt-teleop-agri) | 89 | 4 | `██████████` 96% |
-| [tpt-identity](https://github.com/tpt-solutions/tpt-identity) | 88 | 4 | `██████████` 96% |
 | [tpt-medical](https://github.com/tpt-solutions/tpt-medical) | 173 | 8 | `██████████` 96% |
 | [tpt-substrate](https://github.com/tpt-solutions/tpt-substrate) | 43 | 2 | `██████████` 96% |
 | [tpt-lattice](https://github.com/tpt-solutions/tpt-lattice) | 149 | 7 | `██████████` 96% |
@@ -157,11 +157,11 @@
 | [tpt-banking](https://github.com/tpt-solutions/tpt-banking) | 147 | 8 | `█████████░` 95% |
 | [tpt-multibody-dynamics](https://github.com/tpt-solutions/tpt-multibody-dynamics) | 147 | 8 | `█████████░` 95% |
 | [tpt-cv](https://github.com/tpt-solutions/tpt-cv) | 143 | 8 | `█████████░` 95% |
+| [tpt-async](https://github.com/tpt-solutions/tpt-async) | 139 | 8 | `█████████░` 95% |
 | [tpt-linux2026](https://github.com/tpt-solutions/tpt-linux2026) | 138 | 8 | `█████████░` 95% |
 | [tpt-local-ai](https://github.com/tpt-solutions/tpt-local-ai) | 138 | 8 | `█████████░` 95% |
 | [tpt-pdf](https://github.com/tpt-solutions/tpt-pdf) | 155 | 9 | `█████████░` 95% |
 | [tpt-foundryos](https://github.com/tpt-solutions/tpt-foundryos) | 102 | 6 | `█████████░` 94% |
-| [tpt-link](https://github.com/tpt-solutions/tpt-link) | 51 | 3 | `█████████░` 94% |
 | [tpt-chrysalis](https://github.com/tpt-solutions/tpt-chrysalis) | 82 | 5 | `█████████░` 94% |
 | [tpt-silicon](https://github.com/tpt-solutions/tpt-silicon) | 82 | 5 | `█████████░` 94% |
 | [tpt-rust6](https://github.com/tpt-solutions/tpt-rust6) | 130 | 8 | `█████████░` 94% |
@@ -185,11 +185,11 @@
 | [tpt-fab](https://github.com/tpt-solutions/tpt-fab) | 45 | 4 | `█████████░` 92% |
 | [tpt-net-async](https://github.com/tpt-solutions/tpt-net-async) | 45 | 4 | `█████████░` 92% |
 | [tpt-production](https://github.com/tpt-solutions/tpt-production) | 156 | 14 | `█████████░` 92% |
-| [tpt-async](https://github.com/tpt-solutions/tpt-async) | 132 | 12 | `█████████░` 92% |
 | [tpt-rustir](https://github.com/tpt-solutions/tpt-rustir) | 77 | 7 | `█████████░` 92% |
 | [tpt-rust2](https://github.com/tpt-solutions/tpt-rust2) | 43 | 4 | `█████████░` 91% |
 | [tpt-query](https://github.com/tpt-solutions/tpt-query) | 83 | 8 | `█████████░` 91% |
 | [tpt-koinon](https://github.com/tpt-solutions/tpt-koinon) | 132 | 13 | `█████████░` 91% |
+| [tpt-link](https://github.com/tpt-solutions/tpt-link) | 81 | 8 | `█████████░` 91% |
 | [tpt-formal](https://github.com/tpt-solutions/tpt-formal) | 131 | 13 | `█████████░` 91% |
 | [tpt-voice](https://github.com/tpt-solutions/tpt-voice) | 80 | 8 | `█████████░` 91% |
 | [tpt-strategygraph](https://github.com/tpt-solutions/tpt-strategygraph) | 118 | 12 | `█████████░` 91% |
@@ -201,6 +201,7 @@
 | [tpt-email](https://github.com/tpt-solutions/tpt-email) | 179 | 19 | `█████████░` 90% |
 | [tpt-synapse](https://github.com/tpt-solutions/tpt-synapse) | 47 | 5 | `█████████░` 90% |
 | [tpt-basestation](https://github.com/tpt-solutions/tpt-basestation) | 111 | 12 | `█████████░` 90% |
+| [tpt-operations](https://github.com/tpt-solutions/tpt-operations) | 111 | 12 | `█████████░` 90% |
 | [tpt-telos](https://github.com/tpt-solutions/tpt-telos) | 129 | 14 | `█████████░` 90% |
 | [tpt-armature](https://github.com/tpt-solutions/tpt-armature) | 110 | 12 | `█████████░` 90% |
 | [tpt-stratum](https://github.com/tpt-solutions/tpt-stratum) | 119 | 13 | `█████████░` 90% |
@@ -249,7 +250,6 @@
 | [tpt-rust7](https://github.com/tpt-solutions/tpt-rust7) | 35 | 7 | `████████░░` 83% |
 | [tpt-farmer](https://github.com/tpt-solutions/tpt-farmer) | 39 | 8 | `████████░░` 83% |
 | [tpt-asn1](https://github.com/tpt-solutions/tpt-asn1) | 95 | 20 | `████████░░` 83% |
-| [tpt-version](https://github.com/tpt-solutions/tpt-version) | 71 | 15 | `████████░░` 83% |
 | [tpt-diskview](https://github.com/tpt-solutions/tpt-diskview) | 42 | 9 | `████████░░` 82% |
 | [tpt-raglite](https://github.com/tpt-solutions/tpt-raglite) | 79 | 17 | `████████░░` 82% |
 | [tpt-av](https://github.com/tpt-solutions/tpt-av) | 81 | 19 | `████████░░` 81% |
@@ -280,6 +280,7 @@
 | [tpt-cobalt](https://github.com/tpt-solutions/tpt-cobalt) | 108 | 33 | `████████░░` 77% |
 | [tpt-gameforge](https://github.com/tpt-solutions/tpt-gameforge) | 75 | 23 | `████████░░` 77% |
 | [tpt-helm](https://github.com/tpt-solutions/tpt-helm) | 48 | 15 | `████████░░` 76% |
+| [tpt-identity](https://github.com/tpt-solutions/tpt-identity) | 142 | 48 | `███████░░░` 75% |
 | [tpt-q-phase](https://github.com/tpt-solutions/tpt-q-phase) | 38 | 13 | `███████░░░` 75% |
 | [tpt-webrtc](https://github.com/tpt-solutions/tpt-webrtc) | 134 | 47 | `███████░░░` 74% |
 | [tpt-wasmforge](https://github.com/tpt-solutions/tpt-wasmforge) | 50 | 19 | `███████░░░` 72% |
@@ -296,6 +297,7 @@
 | [tpt-reficon](https://github.com/tpt-solutions/tpt-reficon) | 40 | 22 | `██████░░░░` 65% |
 | [tpt-helix](https://github.com/tpt-solutions/tpt-helix) | 85 | 47 | `██████░░░░` 64% |
 | [tpt-building-designer](https://github.com/tpt-solutions/tpt-building-designer) | 32 | 18 | `██████░░░░` 64% |
+| [tpt-hands](https://github.com/tpt-solutions/tpt-hands) | 83 | 49 | `██████░░░░` 63% |
 | [tpt-ignis](https://github.com/tpt-solutions/tpt-ignis) | 22 | 13 | `██████░░░░` 63% |
 | [tpt-warden](https://github.com/tpt-solutions/tpt-warden) | 41 | 25 | `██████░░░░` 62% |
 | [tpt-morph](https://github.com/tpt-solutions/tpt-morph) | 35 | 24 | `██████░░░░` 59% |
@@ -310,9 +312,7 @@
 | [tpt-hearth](https://github.com/tpt-solutions/tpt-hearth) | 92 | 144 | `████░░░░░░` 39% |
 | [tpt-power-utility](https://github.com/tpt-solutions/tpt-power-utility) | 105 | 183 | `████░░░░░░` 36% |
 | [tpt-env](https://github.com/tpt-solutions/tpt-env) | 31 | 57 | `████░░░░░░` 35% |
-| [tpt-hands](https://github.com/tpt-solutions/tpt-hands) | 40 | 105 | `███░░░░░░░` 28% |
 | [tpt-mathr](https://github.com/tpt-solutions/tpt-mathr) | 43 | 129 | `██░░░░░░░░` 25% |
-| [tpt-operations](https://github.com/tpt-solutions/tpt-operations) | 5 | 69 | `█░░░░░░░░░` 7% |
 | [tpt-ms-vs](https://github.com/tpt-solutions/tpt-ms-vs) | 5 | 92 | `█░░░░░░░░░` 5% |
 | [tpt-senses](https://github.com/tpt-solutions/tpt-senses) | 8 | 152 | `░░░░░░░░░░` 5% |
 | [tpt-conductor](https://github.com/tpt-solutions/tpt-conductor) | 2 | 56 | `░░░░░░░░░░` 3% |
@@ -518,7 +518,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 ### Async & networking
 | Repo | What it is |
 |---|---|
-| [tpt-async](https://github.com/tpt-solutions/tpt-async)<!--s--> 🚧 91%<!--/s--> | Runtime-agnostic async stack: traits, executor, timers, TLS, HTTP, WebSocket |
+| [tpt-async](https://github.com/tpt-solutions/tpt-async)<!--s--> 🚧 94%<!--/s--> | Runtime-agnostic async stack: traits, executor, timers, TLS, HTTP, WebSocket |
 | [tpt-torus](https://github.com/tpt-solutions/tpt-torus)<!--s--> 🚧 97%<!--/s--> | io_uring / IOCP / kqueue behind one async API |
 | [tpt-net-async](https://github.com/tpt-solutions/tpt-net-async)<!--s--> 🚧 91%<!--/s--> | HTTP caching, graceful shutdown, retry, pooling |
 | [tpt-netctl](https://github.com/tpt-solutions/tpt-netctl)<!--s--> 🚧 85%<!--/s--> | Backend-independent nftables / eBPF-XDP control API |
@@ -745,7 +745,7 @@ Shared core: [tpt-teleop](https://github.com/tpt-solutions/tpt-teleop)<!--s--> �
 | [tpt-spark](https://github.com/tpt-solutions/tpt-spark)<!--s--> 🚧 96%<!--/s--> | On-device LLM chat |
 
 ### Identity, security & compliance
-[tpt-aegis](https://github.com/tpt-solutions/tpt-aegis)<!--s--> 🚧 80%<!--/s--> (IAM) · [tpt-citadel](https://github.com/tpt-solutions/tpt-citadel)<!--s--> 🚧 96%<!--/s--> (secrets) · [tpt-identity](https://github.com/tpt-solutions/tpt-identity)<!--s--> 🚧 95%<!--/s--> (SSI/OIDC/VC) · [tpt-warden](https://github.com/tpt-solutions/tpt-warden)<!--s--> 🚧 62%<!--/s--> (LDAPv3) · [tpt-security-test](https://github.com/tpt-solutions/tpt-security-test)<!--s--> ✅<!--/s--> · [tpt-email](https://github.com/tpt-solutions/tpt-email)<!--s--> 🚧 90%<!--/s--> · [tpt-accessfix](https://github.com/tpt-solutions/tpt-accessfix)<!--s--> 🚧 97%<!--/s-->
+[tpt-aegis](https://github.com/tpt-solutions/tpt-aegis)<!--s--> 🚧 80%<!--/s--> (IAM) · [tpt-citadel](https://github.com/tpt-solutions/tpt-citadel)<!--s--> 🚧 96%<!--/s--> (secrets) · [tpt-identity](https://github.com/tpt-solutions/tpt-identity)<!--s--> 🚧 74%<!--/s--> (SSI/OIDC/VC) · [tpt-warden](https://github.com/tpt-solutions/tpt-warden)<!--s--> 🚧 62%<!--/s--> (LDAPv3) · [tpt-security-test](https://github.com/tpt-solutions/tpt-security-test)<!--s--> ✅<!--/s--> · [tpt-email](https://github.com/tpt-solutions/tpt-email)<!--s--> 🚧 90%<!--/s--> · [tpt-accessfix](https://github.com/tpt-solutions/tpt-accessfix)<!--s--> 🚧 97%<!--/s-->
 
 ### Business, finance & productivity
 [tpt-titan](https://github.com/tpt-solutions/tpt-titan)<!--s--> ✅<!--/s--> · [tpt-beacon](https://github.com/tpt-solutions/tpt-beacon)<!--s--> 🚧 92%<!--/s--> · [tpt-openledger](https://github.com/tpt-solutions/tpt-openledger)<!--s--> 🚧 96%<!--/s--> · [tpt-free-erp](https://github.com/tpt-solutions/tpt-free-erp)<!--s--> 🚧 99%<!--/s--> · [tpt-erp-rust](https://github.com/tpt-solutions/tpt-erp-rust)<!--s--> ✅<!--/s--> · [tpt-payments](https://github.com/tpt-solutions/tpt-payments)<!--s--> ❔<!--/s--> · [tpt-payment-merchant](https://github.com/tpt-solutions/tpt-payment-merchant)<!--s--> ❔<!--/s--> · [tpt-banking](https://github.com/tpt-solutions/tpt-banking)<!--s--> 🚧 94%<!--/s--> · [tpt-portus](https://github.com/tpt-solutions/tpt-portus)<!--s--> ⏳ 0%<!--/s--> · [tpt-flow](https://github.com/tpt-solutions/tpt-flow)<!--s--> 🚧 84%<!--/s--> · [tpt-meridian](https://github.com/tpt-solutions/tpt-meridian)<!--s--> 🚧 94%<!--/s--> · [tpt-conduit](https://github.com/tpt-solutions/tpt-conduit)<!--s--> 🚧 84%<!--/s--> · [tpt-strategygraph](https://github.com/tpt-solutions/tpt-strategygraph)<!--s--> 🚧 90%<!--/s--> · [tpt-ms-ex](https://github.com/tpt-solutions/tpt-ms-ex)<!--s--> ❔<!--/s--> · [tpt-ms-ad](https://github.com/tpt-solutions/tpt-ms-ad)<!--s--> ❔<!--/s--> · [tpt-ms-cp](https://github.com/tpt-solutions/tpt-ms-cp)<!--s--> ❔<!--/s--> · [tpt-email-provider](https://github.com/tpt-solutions/tpt-email-provider)<!--s--> ✅<!--/s-->
