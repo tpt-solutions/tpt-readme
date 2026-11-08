@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**38,349 of 46,256 tasks complete — 82.9%** `█████████████████░░░`
+**38,554 of 46,273 tasks complete — 83.3%** `█████████████████░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 38,349 | 7,907 | 46,256 | 334 | 35 |
+| 38,554 | 7,719 | 46,273 | 334 | 35 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-07 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-08 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -83,7 +83,6 @@
 | [tpt-barcode](https://github.com/tpt-solutions/tpt-barcode) | 116 | 2 | `██████████` 98% |
 | [tpt-fathom](https://github.com/tpt-solutions/tpt-fathom) | 113 | 2 | `██████████` 98% |
 | [tpt-infer](https://github.com/tpt-solutions/tpt-infer) | 110 | 2 | `██████████` 98% |
-| [tpt-kinetix](https://github.com/tpt-solutions/tpt-kinetix) | 164 | 3 | `██████████` 98% |
 | [tpt-anvil](https://github.com/tpt-solutions/tpt-anvil) | 270 | 5 | `██████████` 98% |
 | [tpt-materials](https://github.com/tpt-solutions/tpt-materials) | 266 | 5 | `██████████` 98% |
 | [tpt-bluetooth-mesh](https://github.com/tpt-solutions/tpt-bluetooth-mesh) | 106 | 2 | `██████████` 98% |
@@ -150,6 +149,7 @@
 | [tpt-fulcrum](https://github.com/tpt-solutions/tpt-fulcrum) | 79 | 4 | `██████████` 95% |
 | [tpt-bastion](https://github.com/tpt-solutions/tpt-bastion) | 59 | 3 | `██████████` 95% |
 | [tpt-teleop-construction](https://github.com/tpt-solutions/tpt-teleop-construction) | 98 | 5 | `██████████` 95% |
+| [tpt-kinetix](https://github.com/tpt-solutions/tpt-kinetix) | 176 | 9 | `██████████` 95% |
 | [tpt-des](https://github.com/tpt-solutions/tpt-des) | 97 | 5 | `██████████` 95% |
 | [tpt-teleop-space](https://github.com/tpt-solutions/tpt-teleop-space) | 150 | 8 | `█████████░` 95% |
 | [tpt-meridian](https://github.com/tpt-solutions/tpt-meridian) | 111 | 6 | `█████████░` 95% |
@@ -237,6 +237,7 @@
 | [tpt-doc](https://github.com/tpt-solutions/tpt-doc) | 149 | 21 | `█████████░` 88% |
 | [tpt-healthcare-nz](https://github.com/tpt-solutions/tpt-healthcare-nz) | 106 | 15 | `█████████░` 88% |
 | [tpt-weave](https://github.com/tpt-solutions/tpt-weave) | 279 | 40 | `█████████░` 87% |
+| [tpt-w-purge](https://github.com/tpt-solutions/tpt-w-purge) | 69 | 10 | `█████████░` 87% |
 | [tpt-electromagnetics](https://github.com/tpt-solutions/tpt-electromagnetics) | 110 | 16 | `█████████░` 87% |
 | [tpt-abyss](https://github.com/tpt-solutions/tpt-abyss) | 67 | 10 | `█████████░` 87% |
 | [tpt-buildsmart](https://github.com/tpt-solutions/tpt-buildsmart) | 99 | 15 | `█████████░` 87% |
@@ -247,6 +248,7 @@
 | [tpt-cli](https://github.com/tpt-solutions/tpt-cli) | 49 | 8 | `█████████░` 86% |
 | [tpt-netctl](https://github.com/tpt-solutions/tpt-netctl) | 48 | 8 | `█████████░` 86% |
 | [tpt-zenith](https://github.com/tpt-solutions/tpt-zenith) | 36 | 6 | `█████████░` 86% |
+| [tpt-gis](https://github.com/tpt-solutions/tpt-gis) | 166 | 29 | `█████████░` 85% |
 | [tpt-thermodynamics](https://github.com/tpt-solutions/tpt-thermodynamics) | 143 | 25 | `█████████░` 85% |
 | [tpt-reficon](https://github.com/tpt-solutions/tpt-reficon) | 88 | 16 | `████████░░` 85% |
 | [tpt-spectrumos](https://github.com/tpt-solutions/tpt-spectrumos) | 86 | 16 | `████████░░` 84% |
@@ -272,7 +274,6 @@
 | [tpt-w-clipboard](https://github.com/tpt-solutions/tpt-w-clipboard) | 20 | 5 | `████████░░` 80% |
 | [tpt-astrobus](https://github.com/tpt-solutions/tpt-astrobus) | 82 | 21 | `████████░░` 80% |
 | [tpt-mcpbox](https://github.com/tpt-solutions/tpt-mcpbox) | 70 | 18 | `████████░░` 80% |
-| [tpt-gis](https://github.com/tpt-solutions/tpt-gis) | 154 | 40 | `████████░░` 79% |
 | [tpt-identity](https://github.com/tpt-solutions/tpt-identity) | 150 | 40 | `████████░░` 79% |
 | [tpt-online-video](https://github.com/tpt-solutions/tpt-online-video) | 690 | 184 | `████████░░` 79% |
 | [tpt-quant-core](https://github.com/tpt-solutions/tpt-quant-core) | 41 | 11 | `████████░░` 79% |
@@ -297,6 +298,7 @@
 | [tpt-rosetta](https://github.com/tpt-solutions/tpt-rosetta) | 70 | 26 | `███████░░░` 73% |
 | [tpt-wasmforge](https://github.com/tpt-solutions/tpt-wasmforge) | 50 | 19 | `███████░░░` 72% |
 | [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm) | 132 | 51 | `███████░░░` 72% |
+| [tpt-w-startup](https://github.com/tpt-solutions/tpt-w-startup) | 56 | 22 | `███████░░░` 72% |
 | [tpt-moira](https://github.com/tpt-solutions/tpt-moira) | 95 | 40 | `███████░░░` 70% |
 | [tpt-rfc](https://github.com/tpt-solutions/tpt-rfc) | 242 | 106 | `███████░░░` 70% |
 | [tpt-sensetel](https://github.com/tpt-solutions/tpt-sensetel) | 35 | 17 | `███████░░░` 67% |
@@ -311,6 +313,7 @@
 | [tpt-ignis](https://github.com/tpt-solutions/tpt-ignis) | 22 | 13 | `██████░░░░` 63% |
 | [tpt-warden](https://github.com/tpt-solutions/tpt-warden) | 41 | 25 | `██████░░░░` 62% |
 | [tpt-w-monitor](https://github.com/tpt-solutions/tpt-w-monitor) | 57 | 37 | `██████░░░░` 61% |
+| [tpt-w-sync](https://github.com/tpt-solutions/tpt-w-sync) | 56 | 38 | `██████░░░░` 60% |
 | [tpt-morph](https://github.com/tpt-solutions/tpt-morph) | 35 | 24 | `██████░░░░` 59% |
 | [tpt-proof](https://github.com/tpt-solutions/tpt-proof) | 79 | 56 | `██████░░░░` 59% |
 | [tpt-teleop-medical](https://github.com/tpt-solutions/tpt-teleop-medical) | 28 | 20 | `██████░░░░` 58% |
@@ -349,14 +352,11 @@
 | [tpt-methuselah](https://github.com/tpt-solutions/tpt-methuselah) | 0 | 75 | `░░░░░░░░░░` 0% |
 | [tpt-portus](https://github.com/tpt-solutions/tpt-portus) | 0 | 70 | `░░░░░░░░░░` 0% |
 | [tpt-search](https://github.com/tpt-solutions/tpt-search) | 0 | 180 | `░░░░░░░░░░` 0% |
-| [tpt-startup](https://github.com/tpt-solutions/tpt-startup) | 0 | 78 | `░░░░░░░░░░` 0% |
 | [tpt-statera](https://github.com/tpt-solutions/tpt-statera) | 0 | 74 | `░░░░░░░░░░` 0% |
-| [tpt-sync](https://github.com/tpt-solutions/tpt-sync) | 0 | 98 | `░░░░░░░░░░` 0% |
 | [tpt-tachyon](https://github.com/tpt-solutions/tpt-tachyon) | 0 | 209 | `░░░░░░░░░░` 0% |
-| [tpt-vault](https://github.com/tpt-solutions/tpt-vault) | 0 | 88 | `░░░░░░░░░░` 0% |
 | [tpt-view](https://github.com/tpt-solutions/tpt-view) | 0 | 106 | `░░░░░░░░░░` 0% |
 | [tpt-vpp](https://github.com/tpt-solutions/tpt-vpp) | 0 | 157 | `░░░░░░░░░░` 0% |
-| [tpt-w-purge](https://github.com/tpt-solutions/tpt-w-purge) | 0 | 77 | `░░░░░░░░░░` 0% |
+| [tpt-w-vault](https://github.com/tpt-solutions/tpt-w-vault) | 0 | 88 | `░░░░░░░░░░` 0% |
 | [tpt-workspaces](https://github.com/tpt-solutions/tpt-workspaces) | 0 | 48 | `░░░░░░░░░░` 0% |
 | [tpt-zones](https://github.com/tpt-solutions/tpt-zones) | 0 | 66 | `░░░░░░░░░░` 0% |
 
@@ -653,7 +653,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 ### Media & documents
 | Repo | What it is |
 |---|---|
-| [tpt-kinetix](https://github.com/tpt-solutions/tpt-kinetix)<!--s--> 🚧 98%<!--/s--> | Lock-free media processing engine (FFmpeg successor) |
+| [tpt-kinetix](https://github.com/tpt-solutions/tpt-kinetix)<!--s--> 🚧 95%<!--/s--> | Lock-free media processing engine (FFmpeg successor) |
 | [tpt-visual](https://github.com/tpt-solutions/tpt-visual)<!--s--> 🚧 98%<!--/s--> | GPU-accelerated video processing |
 | [tpt-cadence](https://github.com/tpt-solutions/tpt-cadence)<!--s--> 🚧 97%<!--/s--> | Zero-dependency audio codec suite |
 | [tpt-dsp](https://github.com/tpt-solutions/tpt-dsp)<!--s--> 🚧 98%<!--/s--> | Real-time-safe DSP for audio/RF/control |
@@ -737,7 +737,7 @@ Shared core: [tpt-teleop](https://github.com/tpt-solutions/tpt-teleop)<!--s--> �
 | [tpt-view](https://github.com/tpt-solutions/tpt-view)<!--s--> ⏳ 0%<!--/s--> | Image viewer and batch converter |
 | [tpt-diskview](https://github.com/tpt-solutions/tpt-diskview)<!--s--> 🚧 82%<!--/s--> | Disk cleanup |
 | [tpt-purge](https://github.com/tpt-solutions/tpt-purge) | Bulk uninstaller |
-| [tpt-startup](https://github.com/tpt-solutions/tpt-startup)<!--s--> ⏳ 0%<!--/s--> | Startup / background service manager |
+| [tpt-startup](https://github.com/tpt-solutions/tpt-startup) | Startup / background service manager |
 | [tpt-monitor](https://github.com/tpt-solutions/tpt-monitor) | System resource monitor |
 | [tpt-netguard](https://github.com/tpt-solutions/tpt-netguard) | Per-app bandwidth monitor and firewall |
 | [tpt-zones](https://github.com/tpt-solutions/tpt-zones)<!--s--> ⏳ 0%<!--/s--> · [tpt-workspaces](https://github.com/tpt-solutions/tpt-workspaces)<!--s--> ⏳ 0%<!--/s--> | Window tiling · persistent virtual desktops |
@@ -746,8 +746,8 @@ Shared core: [tpt-teleop](https://github.com/tpt-solutions/tpt-teleop)<!--s--> �
 | [tpt-fonts](https://github.com/tpt-solutions/tpt-fonts) | Font manager |
 | [tpt-audio](https://github.com/tpt-solutions/tpt-audio)<!--s--> 🚧 96%<!--/s--> · [tpt-mixer](https://github.com/tpt-solutions/tpt-mixer) | Audio routers / virtual mixers |
 | [tpt-clipboard](https://github.com/tpt-solutions/tpt-clipboard) | Clipboard manager with E2E sync |
-| [tpt-vault](https://github.com/tpt-solutions/tpt-vault)<!--s--> ⏳ 0%<!--/s--> | Encrypted vault and notes |
-| [tpt-sync](https://github.com/tpt-solutions/tpt-sync)<!--s--> ⏳ 0%<!--/s--> · [tpt-glide](https://github.com/tpt-solutions/tpt-glide)<!--s--> ⏳ 0%<!--/s--> | Versioned backup · OneDrive/SharePoint sync |
+| [tpt-vault](https://github.com/tpt-solutions/tpt-vault) | Encrypted vault and notes |
+| [tpt-sync](https://github.com/tpt-solutions/tpt-sync) · [tpt-glide](https://github.com/tpt-solutions/tpt-glide)<!--s--> ⏳ 0%<!--/s--> | Versioned backup · OneDrive/SharePoint sync |
 | [tpt-wslx](https://github.com/tpt-solutions/tpt-wslx)<!--s--> 🚧 1%<!--/s--> | WSL2 filesystem bridge |
 | [tpt-gitcastle](https://github.com/tpt-solutions/tpt-gitcastle)<!--s--> 🚧 65%<!--/s--> | Git GUI (GitHub Desktop fork) |
 | [tpt-fathom](https://github.com/tpt-solutions/tpt-fathom)<!--s--> 🚧 98%<!--/s--> | Network protocol analyser |
