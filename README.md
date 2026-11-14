@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**39,629 of 47,953 tasks complete — 82.6%** `█████████████████░░░`
+**39,648 of 47,953 tasks complete — 82.7%** `█████████████████░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 39,629 | 8,324 | 47,953 | 342 | 35 |
+| 39,648 | 8,305 | 47,953 | 342 | 35 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-13 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-14 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -257,8 +257,8 @@
 | [tpt-construct](https://github.com/tpt-solutions/tpt-construct) | 69 | 13 | `████████░░` 84% |
 | [tpt-conduit](https://github.com/tpt-solutions/tpt-conduit) | 42 | 8 | `████████░░` 84% |
 | [tpt-rust7](https://github.com/tpt-solutions/tpt-rust7) | 35 | 7 | `████████░░` 83% |
+| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm) | 152 | 31 | `████████░░` 83% |
 | [tpt-farmer](https://github.com/tpt-solutions/tpt-farmer) | 39 | 8 | `████████░░` 83% |
-| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm) | 151 | 32 | `████████░░` 83% |
 | [tpt-diskview](https://github.com/tpt-solutions/tpt-diskview) | 42 | 9 | `████████░░` 82% |
 | [tpt-asn1](https://github.com/tpt-solutions/tpt-asn1) | 140 | 31 | `████████░░` 82% |
 | [tpt-av](https://github.com/tpt-solutions/tpt-av) | 81 | 19 | `████████░░` 81% |
@@ -335,10 +335,10 @@
 | [tpt-augur](https://github.com/tpt-solutions/tpt-augur) | 59 | 75 | `████░░░░░░` 44% |
 | [tpt-pantheon](https://github.com/tpt-solutions/tpt-pantheon) | 23 | 30 | `████░░░░░░` 43% |
 | [tpt-teleop-urban](https://github.com/tpt-solutions/tpt-teleop-urban) | 46 | 61 | `████░░░░░░` 43% |
+| [tpt-kardashev](https://github.com/tpt-solutions/tpt-kardashev) | 119 | 172 | `████░░░░░░` 41% |
 | [tpt-hearth](https://github.com/tpt-solutions/tpt-hearth) | 92 | 144 | `████░░░░░░` 39% |
 | [tpt-power-utility](https://github.com/tpt-solutions/tpt-power-utility) | 105 | 183 | `████░░░░░░` 36% |
 | [tpt-w-env](https://github.com/tpt-solutions/tpt-w-env) | 31 | 57 | `████░░░░░░` 35% |
-| [tpt-kardashev](https://github.com/tpt-solutions/tpt-kardashev) | 101 | 190 | `███░░░░░░░` 35% |
 | [tpt-crypto-rustls](https://github.com/tpt-solutions/tpt-crypto-rustls) | 4 | 8 | `███░░░░░░░` 33% |
 | [tpt-agripod](https://github.com/tpt-solutions/tpt-agripod) | 44 | 103 | `███░░░░░░░` 30% |
 | [tpt-invariant](https://github.com/tpt-solutions/tpt-invariant) | 39 | 109 | `███░░░░░░░` 26% |
@@ -578,7 +578,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 | [tpt-linux2026](https://github.com/tpt-solutions/tpt-linux2026)<!--s--> 🚧 94%<!--/s--> | 10 libraries for missing Linux plumbing (power, HDR/VRR, eBPF, tiering) |
 | [tpt-deb-toolkit](https://github.com/tpt-solutions/tpt-deb-toolkit)<!--s--> 🚧 95%<!--/s--> | Zero-copy Debian/Ubuntu package management |
 | [tpt-runtime](https://github.com/tpt-solutions/tpt-runtime)<!--s--> 🚧 77%<!--/s--> | Unified workload runtime for Windows / heterogeneous compute |
-| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm)<!--s--> 🚧 82%<!--/s--> | Independent WebAssembly implementation |
+| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm)<!--s--> 🚧 83%<!--/s--> | Independent WebAssembly implementation |
 
 ---
 
