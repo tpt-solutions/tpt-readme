@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**39,648 of 47,953 tasks complete — 82.7%** `█████████████████░░░`
+**39,860 of 48,083 tasks complete — 82.9%** `█████████████████░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 39,648 | 8,305 | 47,953 | 342 | 35 |
+| 39,860 | 8,223 | 48,083 | 343 | 35 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-14 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-15 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -250,6 +250,7 @@
 | [tpt-capsec](https://github.com/tpt-solutions/tpt-capsec) | 98 | 16 | `█████████░` 86% |
 | [tpt-netctl](https://github.com/tpt-solutions/tpt-netctl) | 48 | 8 | `█████████░` 86% |
 | [tpt-zenith](https://github.com/tpt-solutions/tpt-zenith) | 36 | 6 | `█████████░` 86% |
+| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm) | 156 | 27 | `█████████░` 85% |
 | [tpt-thermodynamics](https://github.com/tpt-solutions/tpt-thermodynamics) | 143 | 25 | `█████████░` 85% |
 | [tpt-reficon](https://github.com/tpt-solutions/tpt-reficon) | 88 | 16 | `████████░░` 85% |
 | [tpt-spectrumos](https://github.com/tpt-solutions/tpt-spectrumos) | 86 | 16 | `████████░░` 84% |
@@ -257,9 +258,9 @@
 | [tpt-construct](https://github.com/tpt-solutions/tpt-construct) | 69 | 13 | `████████░░` 84% |
 | [tpt-conduit](https://github.com/tpt-solutions/tpt-conduit) | 42 | 8 | `████████░░` 84% |
 | [tpt-rust7](https://github.com/tpt-solutions/tpt-rust7) | 35 | 7 | `████████░░` 83% |
-| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm) | 152 | 31 | `████████░░` 83% |
 | [tpt-farmer](https://github.com/tpt-solutions/tpt-farmer) | 39 | 8 | `████████░░` 83% |
 | [tpt-diskview](https://github.com/tpt-solutions/tpt-diskview) | 42 | 9 | `████████░░` 82% |
+| [tpt-usb-rescue](https://github.com/tpt-solutions/tpt-usb-rescue) | 107 | 23 | `████████░░` 82% |
 | [tpt-asn1](https://github.com/tpt-solutions/tpt-asn1) | 140 | 31 | `████████░░` 82% |
 | [tpt-av](https://github.com/tpt-solutions/tpt-av) | 81 | 19 | `████████░░` 81% |
 | [tpt-homestack](https://github.com/tpt-solutions/tpt-homestack) | 194 | 46 | `████████░░` 81% |
@@ -288,6 +289,7 @@
 | [tpt-lexicon](https://github.com/tpt-solutions/tpt-lexicon) | 72 | 21 | `████████░░` 77% |
 | [tpt-neuron](https://github.com/tpt-solutions/tpt-neuron) | 48 | 14 | `████████░░` 77% |
 | [tpt-e-wasm](https://github.com/tpt-solutions/tpt-e-wasm) | 47 | 14 | `████████░░` 77% |
+| [tpt-moira](https://github.com/tpt-solutions/tpt-moira) | 104 | 31 | `████████░░` 77% |
 | [tpt-mesh](https://github.com/tpt-solutions/tpt-mesh) | 199 | 60 | `████████░░` 77% |
 | [tpt-cambium](https://github.com/tpt-solutions/tpt-cambium) | 59 | 18 | `████████░░` 77% |
 | [tpt-ruc-nz](https://github.com/tpt-solutions/tpt-ruc-nz) | 154 | 47 | `████████░░` 77% |
@@ -297,7 +299,7 @@
 | [tpt-helm](https://github.com/tpt-solutions/tpt-helm) | 48 | 15 | `████████░░` 76% |
 | [tpt-mcpbox](https://github.com/tpt-solutions/tpt-mcpbox) | 81 | 27 | `████████░░` 75% |
 | [tpt-q-phase](https://github.com/tpt-solutions/tpt-q-phase) | 38 | 13 | `███████░░░` 75% |
-| [tpt-moira](https://github.com/tpt-solutions/tpt-moira) | 100 | 35 | `███████░░░` 74% |
+| [tpt-kardashev](https://github.com/tpt-solutions/tpt-kardashev) | 216 | 75 | `███████░░░` 74% |
 | [tpt-webrtc](https://github.com/tpt-solutions/tpt-webrtc) | 134 | 47 | `███████░░░` 74% |
 | [tpt-w-fonts](https://github.com/tpt-solutions/tpt-w-fonts) | 68 | 24 | `███████░░░` 74% |
 | [tpt-w-view](https://github.com/tpt-solutions/tpt-w-view) | 66 | 24 | `███████░░░` 73% |
@@ -335,7 +337,6 @@
 | [tpt-augur](https://github.com/tpt-solutions/tpt-augur) | 59 | 75 | `████░░░░░░` 44% |
 | [tpt-pantheon](https://github.com/tpt-solutions/tpt-pantheon) | 23 | 30 | `████░░░░░░` 43% |
 | [tpt-teleop-urban](https://github.com/tpt-solutions/tpt-teleop-urban) | 46 | 61 | `████░░░░░░` 43% |
-| [tpt-kardashev](https://github.com/tpt-solutions/tpt-kardashev) | 119 | 172 | `████░░░░░░` 41% |
 | [tpt-hearth](https://github.com/tpt-solutions/tpt-hearth) | 92 | 144 | `████░░░░░░` 39% |
 | [tpt-power-utility](https://github.com/tpt-solutions/tpt-power-utility) | 105 | 183 | `████░░░░░░` 36% |
 | [tpt-w-env](https://github.com/tpt-solutions/tpt-w-env) | 31 | 57 | `████░░░░░░` 35% |
@@ -578,7 +579,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 | [tpt-linux2026](https://github.com/tpt-solutions/tpt-linux2026)<!--s--> 🚧 94%<!--/s--> | 10 libraries for missing Linux plumbing (power, HDR/VRR, eBPF, tiering) |
 | [tpt-deb-toolkit](https://github.com/tpt-solutions/tpt-deb-toolkit)<!--s--> 🚧 95%<!--/s--> | Zero-copy Debian/Ubuntu package management |
 | [tpt-runtime](https://github.com/tpt-solutions/tpt-runtime)<!--s--> 🚧 77%<!--/s--> | Unified workload runtime for Windows / heterogeneous compute |
-| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm)<!--s--> 🚧 83%<!--/s--> | Independent WebAssembly implementation |
+| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm)<!--s--> 🚧 85%<!--/s--> | Independent WebAssembly implementation |
 
 ---
 
@@ -587,7 +588,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 ### Compilers, languages & code intelligence
 | Repo | What it is |
 |---|---|
-| [tpt-moira](https://github.com/tpt-solutions/tpt-moira)<!--s--> 🚧 74%<!--/s--> | From-scratch Rust compiler (Clotho / Lachesis / Atropos) |
+| [tpt-moira](https://github.com/tpt-solutions/tpt-moira)<!--s--> 🚧 77%<!--/s--> | From-scratch Rust compiler (Clotho / Lachesis / Atropos) |
 | [tpt-telos](https://github.com/tpt-solutions/tpt-telos)<!--s--> 🚧 90%<!--/s--> | Intent → verified Rust/Go agentic compiler |
 | [tpt-eidos](https://github.com/tpt-solutions/tpt-eidos)<!--s--> ✅<!--/s--> | Proof-native dependently typed language |
 | [tpt-silicon](https://github.com/tpt-solutions/tpt-silicon)<!--s--> 🚧 94%<!--/s--> | EDA toolchain with Silica HDL → Verilog |
