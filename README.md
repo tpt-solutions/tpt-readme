@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**39,860 of 48,083 tasks complete — 82.9%** `█████████████████░░░`
+**40,142 of 48,260 tasks complete — 83.2%** `█████████████████░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 39,860 | 8,223 | 48,083 | 343 | 35 |
+| 40,142 | 8,118 | 48,260 | 344 | 36 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-15 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-16 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -225,6 +225,7 @@
 | [tpt-datacenter](https://github.com/tpt-solutions/tpt-datacenter) | 99 | 12 | `█████████░` 89% |
 | [tpt-raster](https://github.com/tpt-solutions/tpt-raster) | 66 | 8 | `█████████░` 89% |
 | [tpt-flight-control](https://github.com/tpt-solutions/tpt-flight-control) | 98 | 12 | `█████████░` 89% |
+| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm) | 163 | 20 | `█████████░` 89% |
 | [tpt-semadiff](https://github.com/tpt-solutions/tpt-semadiff) | 89 | 11 | `█████████░` 89% |
 | [tpt-shipyard](https://github.com/tpt-solutions/tpt-shipyard) | 352 | 44 | `█████████░` 89% |
 | [tpt-law](https://github.com/tpt-solutions/tpt-law) | 79 | 10 | `█████████░` 89% |
@@ -250,9 +251,9 @@
 | [tpt-capsec](https://github.com/tpt-solutions/tpt-capsec) | 98 | 16 | `█████████░` 86% |
 | [tpt-netctl](https://github.com/tpt-solutions/tpt-netctl) | 48 | 8 | `█████████░` 86% |
 | [tpt-zenith](https://github.com/tpt-solutions/tpt-zenith) | 36 | 6 | `█████████░` 86% |
-| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm) | 156 | 27 | `█████████░` 85% |
 | [tpt-thermodynamics](https://github.com/tpt-solutions/tpt-thermodynamics) | 143 | 25 | `█████████░` 85% |
 | [tpt-reficon](https://github.com/tpt-solutions/tpt-reficon) | 88 | 16 | `████████░░` 85% |
+| [tpt-dynamics](https://github.com/tpt-solutions/tpt-dynamics) | 164 | 30 | `████████░░` 85% |
 | [tpt-spectrumos](https://github.com/tpt-solutions/tpt-spectrumos) | 86 | 16 | `████████░░` 84% |
 | [tpt-flow](https://github.com/tpt-solutions/tpt-flow) | 112 | 21 | `████████░░` 84% |
 | [tpt-construct](https://github.com/tpt-solutions/tpt-construct) | 69 | 13 | `████████░░` 84% |
@@ -331,6 +332,7 @@
 | [tpt-certus](https://github.com/tpt-solutions/tpt-certus) | 41 | 32 | `██████░░░░` 56% |
 | [tpt-portus](https://github.com/tpt-solutions/tpt-portus) | 41 | 32 | `██████░░░░` 56% |
 | [tpt-mathica](https://github.com/tpt-solutions/tpt-mathica) | 21 | 17 | `██████░░░░` 55% |
+| [tpt-planetary](https://github.com/tpt-solutions/tpt-planetary) | 111 | 95 | `█████░░░░░` 54% |
 | [tpt-shell](https://github.com/tpt-solutions/tpt-shell) | 261 | 263 | `█████░░░░░` 50% |
 | [tpt-compute](https://github.com/tpt-solutions/tpt-compute) | 28 | 29 | `█████░░░░░` 49% |
 | [tpt-kernel](https://github.com/tpt-solutions/tpt-kernel) | 35 | 40 | `█████░░░░░` 47% |
@@ -353,11 +355,11 @@
 | [tpt-actuarial](https://github.com/tpt-solutions/tpt-actuarial) | 0 | 109 | `░░░░░░░░░░` 0% |
 | [tpt-aether](https://github.com/tpt-solutions/tpt-aether) | 0 | 57 | `░░░░░░░░░░` 0% |
 | [tpt-ai](https://github.com/tpt-solutions/tpt-ai) | 0 | 144 | `░░░░░░░░░░` 0% |
+| [tpt-algorithms](https://github.com/tpt-solutions/tpt-algorithms) | 0 | 165 | `░░░░░░░░░░` 0% |
 | [tpt-bio](https://github.com/tpt-solutions/tpt-bio) | 0 | 211 | `░░░░░░░░░░` 0% |
 | [tpt-cloud-observability](https://github.com/tpt-solutions/tpt-cloud-observability) | 0 | 63 | `░░░░░░░░░░` 0% |
 | [tpt-convoy](https://github.com/tpt-solutions/tpt-convoy) | 0 | 32 | `░░░░░░░░░░` 0% |
 | [tpt-dir](https://github.com/tpt-solutions/tpt-dir) | 0 | 86 | `░░░░░░░░░░` 0% |
-| [tpt-dynamics](https://github.com/tpt-solutions/tpt-dynamics) | 0 | 196 | `░░░░░░░░░░` 0% |
 | [tpt-episteme](https://github.com/tpt-solutions/tpt-episteme) | 0 | 38 | `░░░░░░░░░░` 0% |
 | [tpt-glide](https://github.com/tpt-solutions/tpt-glide) | 0 | 59 | `░░░░░░░░░░` 0% |
 | [tpt-ichnos](https://github.com/tpt-solutions/tpt-ichnos) | 0 | 61 | `░░░░░░░░░░` 0% |
@@ -365,7 +367,6 @@
 | [tpt-l-riscv](https://github.com/tpt-solutions/tpt-l-riscv) | 0 | 130 | `░░░░░░░░░░` 0% |
 | [tpt-methuselah](https://github.com/tpt-solutions/tpt-methuselah) | 0 | 75 | `░░░░░░░░░░` 0% |
 | [tpt-molecule](https://github.com/tpt-solutions/tpt-molecule) | 0 | 148 | `░░░░░░░░░░` 0% |
-| [tpt-planetary](https://github.com/tpt-solutions/tpt-planetary) | 0 | 192 | `░░░░░░░░░░` 0% |
 | [tpt-tachyon](https://github.com/tpt-solutions/tpt-tachyon) | 0 | 209 | `░░░░░░░░░░` 0% |
 | [tpt-vpp](https://github.com/tpt-solutions/tpt-vpp) | 0 | 157 | `░░░░░░░░░░` 0% |
 
@@ -373,9 +374,9 @@
 
 #### Needs attention
 
-<details><summary>No <code>todo.md</code> (27)</summary>
+<details><summary>No <code>todo.md</code> (28)</summary>
 
-[tpt-airport-control](https://github.com/tpt-solutions/tpt-airport-control), [tpt-credentials-nz](https://github.com/tpt-solutions/tpt-credentials-nz), [tpt-decentralized-social](https://github.com/tpt-solutions/tpt-decentralized-social), [tpt-gets-nz](https://github.com/tpt-solutions/tpt-gets-nz), [tpt-government](https://github.com/tpt-solutions/tpt-government), [tpt-k-boot](https://github.com/tpt-solutions/tpt-k-boot), [tpt-k-drivers](https://github.com/tpt-solutions/tpt-k-drivers), [tpt-k-hal](https://github.com/tpt-solutions/tpt-k-hal), [tpt-k-ipc](https://github.com/tpt-solutions/tpt-k-ipc), [tpt-k-kernel](https://github.com/tpt-solutions/tpt-k-kernel), [tpt-k-root](https://github.com/tpt-solutions/tpt-k-root), [tpt-k-toolchain](https://github.com/tpt-solutions/tpt-k-toolchain), [tpt-k-userland](https://github.com/tpt-solutions/tpt-k-userland), [tpt-local-emergency](https://github.com/tpt-solutions/tpt-local-emergency), [tpt-marketplace-nz](https://github.com/tpt-solutions/tpt-marketplace-nz), [tpt-millenium](https://github.com/tpt-solutions/tpt-millenium), [tpt-ms-ad](https://github.com/tpt-solutions/tpt-ms-ad), [tpt-ms-cp](https://github.com/tpt-solutions/tpt-ms-cp), [tpt-ms-ex](https://github.com/tpt-solutions/tpt-ms-ex), [tpt-payment-merchant](https://github.com/tpt-solutions/tpt-payment-merchant), [tpt-payments](https://github.com/tpt-solutions/tpt-payments), [tpt-physics-engine](https://github.com/tpt-solutions/tpt-physics-engine), [tpt-poa-registry-nz](https://github.com/tpt-solutions/tpt-poa-registry-nz), [tpt-readme](https://github.com/tpt-solutions/tpt-readme), [tpt-resource-consent-nz](https://github.com/tpt-solutions/tpt-resource-consent-nz), [tpt-transport](https://github.com/tpt-solutions/tpt-transport), [tpt-w-mixer](https://github.com/tpt-solutions/tpt-w-mixer)
+[target-lexicon-mit](https://github.com/tpt-solutions/target-lexicon-mit), [tpt-airport-control](https://github.com/tpt-solutions/tpt-airport-control), [tpt-credentials-nz](https://github.com/tpt-solutions/tpt-credentials-nz), [tpt-decentralized-social](https://github.com/tpt-solutions/tpt-decentralized-social), [tpt-gets-nz](https://github.com/tpt-solutions/tpt-gets-nz), [tpt-government](https://github.com/tpt-solutions/tpt-government), [tpt-k-boot](https://github.com/tpt-solutions/tpt-k-boot), [tpt-k-drivers](https://github.com/tpt-solutions/tpt-k-drivers), [tpt-k-hal](https://github.com/tpt-solutions/tpt-k-hal), [tpt-k-ipc](https://github.com/tpt-solutions/tpt-k-ipc), [tpt-k-kernel](https://github.com/tpt-solutions/tpt-k-kernel), [tpt-k-root](https://github.com/tpt-solutions/tpt-k-root), [tpt-k-toolchain](https://github.com/tpt-solutions/tpt-k-toolchain), [tpt-k-userland](https://github.com/tpt-solutions/tpt-k-userland), [tpt-local-emergency](https://github.com/tpt-solutions/tpt-local-emergency), [tpt-marketplace-nz](https://github.com/tpt-solutions/tpt-marketplace-nz), [tpt-millenium](https://github.com/tpt-solutions/tpt-millenium), [tpt-ms-ad](https://github.com/tpt-solutions/tpt-ms-ad), [tpt-ms-cp](https://github.com/tpt-solutions/tpt-ms-cp), [tpt-ms-ex](https://github.com/tpt-solutions/tpt-ms-ex), [tpt-payment-merchant](https://github.com/tpt-solutions/tpt-payment-merchant), [tpt-payments](https://github.com/tpt-solutions/tpt-payments), [tpt-physics-engine](https://github.com/tpt-solutions/tpt-physics-engine), [tpt-poa-registry-nz](https://github.com/tpt-solutions/tpt-poa-registry-nz), [tpt-readme](https://github.com/tpt-solutions/tpt-readme), [tpt-resource-consent-nz](https://github.com/tpt-solutions/tpt-resource-consent-nz), [tpt-transport](https://github.com/tpt-solutions/tpt-transport), [tpt-w-mixer](https://github.com/tpt-solutions/tpt-w-mixer)
 
 </details>
 
@@ -579,7 +580,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 | [tpt-linux2026](https://github.com/tpt-solutions/tpt-linux2026)<!--s--> 🚧 94%<!--/s--> | 10 libraries for missing Linux plumbing (power, HDR/VRR, eBPF, tiering) |
 | [tpt-deb-toolkit](https://github.com/tpt-solutions/tpt-deb-toolkit)<!--s--> 🚧 95%<!--/s--> | Zero-copy Debian/Ubuntu package management |
 | [tpt-runtime](https://github.com/tpt-solutions/tpt-runtime)<!--s--> 🚧 77%<!--/s--> | Unified workload runtime for Windows / heterogeneous compute |
-| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm)<!--s--> 🚧 85%<!--/s--> | Independent WebAssembly implementation |
+| [tpt-wasm](https://github.com/tpt-solutions/tpt-wasm)<!--s--> 🚧 89%<!--/s--> | Independent WebAssembly implementation |
 
 ---
 
