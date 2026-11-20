@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**40,704 of 49,977 tasks complete — 81.4%** `████████████████░░░░`
+**40,937 of 50,392 tasks complete — 81.2%** `████████████████░░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 40,704 | 9,273 | 49,977 | 359 | 36 |
+| 40,937 | 9,455 | 50,392 | 361 | 35 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-19 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-20 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -86,7 +86,7 @@
 | [tpt-anvil](https://github.com/tpt-solutions/tpt-anvil) | 270 | 5 | `██████████` 98% |
 | [tpt-materials](https://github.com/tpt-solutions/tpt-materials) | 266 | 5 | `██████████` 98% |
 | [tpt-bluetooth-mesh](https://github.com/tpt-solutions/tpt-bluetooth-mesh) | 106 | 2 | `██████████` 98% |
-| [tpt-visual](https://github.com/tpt-solutions/tpt-visual) | 155 | 3 | `██████████` 98% |
+| [tpt-visual](https://github.com/tpt-solutions/tpt-visual) | 158 | 3 | `██████████` 98% |
 | [tpt-privd](https://github.com/tpt-solutions/tpt-privd) | 99 | 2 | `██████████` 98% |
 | [tpt-teleop-fleet](https://github.com/tpt-solutions/tpt-teleop-fleet) | 48 | 1 | `██████████` 98% |
 | [tpt-linux-hw](https://github.com/tpt-solutions/tpt-linux-hw) | 93 | 2 | `██████████` 98% |
@@ -109,7 +109,6 @@
 | [tpt-gpu](https://github.com/tpt-solutions/tpt-gpu) | 302 | 9 | `██████████` 97% |
 | [tpt-linux-sandbox](https://github.com/tpt-solutions/tpt-linux-sandbox) | 67 | 2 | `██████████` 97% |
 | [tpt-accessfix](https://github.com/tpt-solutions/tpt-accessfix) | 227 | 7 | `██████████` 97% |
-| [tpt-concord](https://github.com/tpt-solutions/tpt-concord) | 129 | 4 | `██████████` 97% |
 | [tpt-vitalis](https://github.com/tpt-solutions/tpt-vitalis) | 193 | 6 | `██████████` 97% |
 | [tpt-anima](https://github.com/tpt-solutions/tpt-anima) | 254 | 8 | `██████████` 97% |
 | [tpt-ai-agents](https://github.com/tpt-solutions/tpt-ai-agents) | 94 | 3 | `██████████` 97% |
@@ -173,7 +172,6 @@
 | [tpt-swarm](https://github.com/tpt-solutions/tpt-swarm) | 121 | 8 | `█████████░` 94% |
 | [tpt-colour](https://github.com/tpt-solutions/tpt-colour) | 105 | 7 | `█████████░` 94% |
 | [tpt-media](https://github.com/tpt-solutions/tpt-media) | 650 | 44 | `█████████░` 94% |
-| [tpt-kardashev](https://github.com/tpt-solutions/tpt-kardashev) | 274 | 19 | `█████████░` 94% |
 | [tpt-press](https://github.com/tpt-solutions/tpt-press) | 100 | 7 | `█████████░` 93% |
 | [tpt-cargo-vitals](https://github.com/tpt-solutions/tpt-cargo-vitals) | 42 | 3 | `█████████░` 93% |
 | [tpt-hiveforge](https://github.com/tpt-solutions/tpt-hiveforge) | 140 | 10 | `█████████░` 93% |
@@ -181,11 +179,14 @@
 | [tpt-zero-text](https://github.com/tpt-solutions/tpt-zero-text) | 377 | 28 | `█████████░` 93% |
 | [tpt-rustvac](https://github.com/tpt-solutions/tpt-rustvac) | 199 | 15 | `█████████░` 93% |
 | [tpt-testkit](https://github.com/tpt-solutions/tpt-testkit) | 53 | 4 | `█████████░` 93% |
+| [tpt-concord](https://github.com/tpt-solutions/tpt-concord) | 157 | 12 | `█████████░` 93% |
 | [tpt-beacon](https://github.com/tpt-solutions/tpt-beacon) | 104 | 8 | `█████████░` 93% |
+| [tpt-kardashev](https://github.com/tpt-solutions/tpt-kardashev) | 276 | 22 | `█████████░` 93% |
 | [tpt-io-standards](https://github.com/tpt-solutions/tpt-io-standards) | 262 | 21 | `█████████░` 93% |
 | [tpt-kv-quant](https://github.com/tpt-solutions/tpt-kv-quant) | 48 | 4 | `█████████░` 92% |
 | [tpt-pulse](https://github.com/tpt-solutions/tpt-pulse) | 84 | 7 | `█████████░` 92% |
 | [tpt-protocol](https://github.com/tpt-solutions/tpt-protocol) | 153 | 13 | `█████████░` 92% |
+| [tpt-dev](https://github.com/tpt-solutions/tpt-dev) | 255 | 22 | `█████████░` 92% |
 | [tpt-fab](https://github.com/tpt-solutions/tpt-fab) | 45 | 4 | `█████████░` 92% |
 | [tpt-net-async](https://github.com/tpt-solutions/tpt-net-async) | 45 | 4 | `█████████░` 92% |
 | [tpt-production](https://github.com/tpt-solutions/tpt-production) | 156 | 14 | `█████████░` 92% |
@@ -266,7 +267,6 @@
 | [tpt-kernel](https://github.com/tpt-solutions/tpt-kernel) | 77 | 17 | `████████░░` 82% |
 | [tpt-asn1](https://github.com/tpt-solutions/tpt-asn1) | 140 | 31 | `████████░░` 82% |
 | [tpt-nova](https://github.com/tpt-solutions/tpt-nova) | 170 | 38 | `████████░░` 82% |
-| [tpt-ml-proven](https://github.com/tpt-solutions/tpt-ml-proven) | 86 | 20 | `████████░░` 81% |
 | [tpt-av](https://github.com/tpt-solutions/tpt-av) | 81 | 19 | `████████░░` 81% |
 | [tpt-homestack](https://github.com/tpt-solutions/tpt-homestack) | 194 | 46 | `████████░░` 81% |
 | [tpt-aegis](https://github.com/tpt-solutions/tpt-aegis) | 105 | 25 | `████████░░` 81% |
@@ -286,6 +286,7 @@
 | [tpt-online-video](https://github.com/tpt-solutions/tpt-online-video) | 690 | 184 | `████████░░` 79% |
 | [tpt-quant-core](https://github.com/tpt-solutions/tpt-quant-core) | 41 | 11 | `████████░░` 79% |
 | [tpt-aion](https://github.com/tpt-solutions/tpt-aion) | 33 | 9 | `████████░░` 79% |
+| [tpt-ml-proven](https://github.com/tpt-solutions/tpt-ml-proven) | 126 | 35 | `████████░░` 78% |
 | [tpt-thermal](https://github.com/tpt-solutions/tpt-thermal) | 71 | 20 | `████████░░` 78% |
 | [tpt-norma](https://github.com/tpt-solutions/tpt-norma) | 70 | 20 | `████████░░` 78% |
 | [tpt-runtime](https://github.com/tpt-solutions/tpt-runtime) | 98 | 28 | `████████░░` 78% |
@@ -293,6 +294,7 @@
 | [tpt-finder](https://github.com/tpt-solutions/tpt-finder) | 73 | 21 | `████████░░` 78% |
 | [tpt-lexicon](https://github.com/tpt-solutions/tpt-lexicon) | 72 | 21 | `████████░░` 77% |
 | [tpt-neuron](https://github.com/tpt-solutions/tpt-neuron) | 48 | 14 | `████████░░` 77% |
+| [tpt-window](https://github.com/tpt-solutions/tpt-window) | 85 | 25 | `████████░░` 77% |
 | [tpt-e-wasm](https://github.com/tpt-solutions/tpt-e-wasm) | 47 | 14 | `████████░░` 77% |
 | [tpt-moira](https://github.com/tpt-solutions/tpt-moira) | 104 | 31 | `████████░░` 77% |
 | [tpt-mesh](https://github.com/tpt-solutions/tpt-mesh) | 199 | 60 | `████████░░` 77% |
@@ -324,7 +326,6 @@
 | [tpt-building-designer](https://github.com/tpt-solutions/tpt-building-designer) | 32 | 18 | `██████░░░░` 64% |
 | [tpt-statera](https://github.com/tpt-solutions/tpt-statera) | 47 | 27 | `██████░░░░` 64% |
 | [tpt-ignis](https://github.com/tpt-solutions/tpt-ignis) | 22 | 13 | `██████░░░░` 63% |
-| [tpt-dev](https://github.com/tpt-solutions/tpt-dev) | 151 | 91 | `██████░░░░` 62% |
 | [tpt-warden](https://github.com/tpt-solutions/tpt-warden) | 41 | 25 | `██████░░░░` 62% |
 | [tpt-w-monitor](https://github.com/tpt-solutions/tpt-w-monitor) | 57 | 37 | `██████░░░░` 61% |
 | [tpt-w-sync](https://github.com/tpt-solutions/tpt-w-sync) | 56 | 38 | `██████░░░░` 60% |
@@ -336,7 +337,6 @@
 | [tpt-certus](https://github.com/tpt-solutions/tpt-certus) | 41 | 32 | `██████░░░░` 56% |
 | [tpt-portus](https://github.com/tpt-solutions/tpt-portus) | 41 | 32 | `██████░░░░` 56% |
 | [tpt-mathica](https://github.com/tpt-solutions/tpt-mathica) | 21 | 17 | `██████░░░░` 55% |
-| [tpt-window](https://github.com/tpt-solutions/tpt-window) | 44 | 36 | `██████░░░░` 55% |
 | [tpt-planetary](https://github.com/tpt-solutions/tpt-planetary) | 111 | 95 | `█████░░░░░` 54% |
 | [tpt-shell](https://github.com/tpt-solutions/tpt-shell) | 261 | 263 | `█████░░░░░` 50% |
 | [tpt-compute](https://github.com/tpt-solutions/tpt-compute) | 28 | 29 | `█████░░░░░` 49% |
@@ -350,6 +350,7 @@
 | [tpt-agripod](https://github.com/tpt-solutions/tpt-agripod) | 44 | 103 | `███░░░░░░░` 30% |
 | [tpt-invariant](https://github.com/tpt-solutions/tpt-invariant) | 39 | 109 | `███░░░░░░░` 26% |
 | [tpt-mathr](https://github.com/tpt-solutions/tpt-mathr) | 43 | 129 | `██░░░░░░░░` 25% |
+| [tpt-payments](https://github.com/tpt-solutions/tpt-payments) | 15 | 77 | `██░░░░░░░░` 16% |
 | [tpt-vox](https://github.com/tpt-solutions/tpt-vox) | 5 | 57 | `█░░░░░░░░░` 8% |
 | [tpt-nova-games](https://github.com/tpt-solutions/tpt-nova-games) | 7 | 119 | `█░░░░░░░░░` 6% |
 | [tpt-ms-vs](https://github.com/tpt-solutions/tpt-ms-vs) | 5 | 92 | `█░░░░░░░░░` 5% |
@@ -381,6 +382,7 @@
 | [tpt-nova-sim](https://github.com/tpt-solutions/tpt-nova-sim) | 0 | 58 | `░░░░░░░░░░` 0% |
 | [tpt-somatic](https://github.com/tpt-solutions/tpt-somatic) | 0 | 134 | `░░░░░░░░░░` 0% |
 | [tpt-tachyon](https://github.com/tpt-solutions/tpt-tachyon) | 0 | 209 | `░░░░░░░░░░` 0% |
+| [tpt-thermal-grid](https://github.com/tpt-solutions/tpt-thermal-grid) | 0 | 159 | `░░░░░░░░░░` 0% |
 | [tpt-vectis](https://github.com/tpt-solutions/tpt-vectis) | 0 | 117 | `░░░░░░░░░░` 0% |
 | [tpt-vfx](https://github.com/tpt-solutions/tpt-vfx) | 0 | 68 | `░░░░░░░░░░` 0% |
 | [tpt-vpp](https://github.com/tpt-solutions/tpt-vpp) | 0 | 157 | `░░░░░░░░░░` 0% |
@@ -389,9 +391,9 @@
 
 #### Needs attention
 
-<details><summary>No <code>todo.md</code> (28)</summary>
+<details><summary>No <code>todo.md</code> (27)</summary>
 
-[target-lexicon-mit](https://github.com/tpt-solutions/target-lexicon-mit), [tpt-airport-control](https://github.com/tpt-solutions/tpt-airport-control), [tpt-credentials-nz](https://github.com/tpt-solutions/tpt-credentials-nz), [tpt-decentralized-social](https://github.com/tpt-solutions/tpt-decentralized-social), [tpt-gets-nz](https://github.com/tpt-solutions/tpt-gets-nz), [tpt-government](https://github.com/tpt-solutions/tpt-government), [tpt-k-boot](https://github.com/tpt-solutions/tpt-k-boot), [tpt-k-drivers](https://github.com/tpt-solutions/tpt-k-drivers), [tpt-k-hal](https://github.com/tpt-solutions/tpt-k-hal), [tpt-k-ipc](https://github.com/tpt-solutions/tpt-k-ipc), [tpt-k-kernel](https://github.com/tpt-solutions/tpt-k-kernel), [tpt-k-root](https://github.com/tpt-solutions/tpt-k-root), [tpt-k-toolchain](https://github.com/tpt-solutions/tpt-k-toolchain), [tpt-k-userland](https://github.com/tpt-solutions/tpt-k-userland), [tpt-local-emergency](https://github.com/tpt-solutions/tpt-local-emergency), [tpt-marketplace-nz](https://github.com/tpt-solutions/tpt-marketplace-nz), [tpt-millenium](https://github.com/tpt-solutions/tpt-millenium), [tpt-ms-ad](https://github.com/tpt-solutions/tpt-ms-ad), [tpt-ms-cp](https://github.com/tpt-solutions/tpt-ms-cp), [tpt-ms-ex](https://github.com/tpt-solutions/tpt-ms-ex), [tpt-payment-merchant](https://github.com/tpt-solutions/tpt-payment-merchant), [tpt-payments](https://github.com/tpt-solutions/tpt-payments), [tpt-physics-engine](https://github.com/tpt-solutions/tpt-physics-engine), [tpt-poa-registry-nz](https://github.com/tpt-solutions/tpt-poa-registry-nz), [tpt-readme](https://github.com/tpt-solutions/tpt-readme), [tpt-resource-consent-nz](https://github.com/tpt-solutions/tpt-resource-consent-nz), [tpt-transport](https://github.com/tpt-solutions/tpt-transport), [tpt-w-mixer](https://github.com/tpt-solutions/tpt-w-mixer)
+[target-lexicon-mit](https://github.com/tpt-solutions/target-lexicon-mit), [tpt-airport-control](https://github.com/tpt-solutions/tpt-airport-control), [tpt-credentials-nz](https://github.com/tpt-solutions/tpt-credentials-nz), [tpt-decentralized-social](https://github.com/tpt-solutions/tpt-decentralized-social), [tpt-gets-nz](https://github.com/tpt-solutions/tpt-gets-nz), [tpt-government](https://github.com/tpt-solutions/tpt-government), [tpt-k-boot](https://github.com/tpt-solutions/tpt-k-boot), [tpt-k-drivers](https://github.com/tpt-solutions/tpt-k-drivers), [tpt-k-hal](https://github.com/tpt-solutions/tpt-k-hal), [tpt-k-ipc](https://github.com/tpt-solutions/tpt-k-ipc), [tpt-k-kernel](https://github.com/tpt-solutions/tpt-k-kernel), [tpt-k-root](https://github.com/tpt-solutions/tpt-k-root), [tpt-k-toolchain](https://github.com/tpt-solutions/tpt-k-toolchain), [tpt-k-userland](https://github.com/tpt-solutions/tpt-k-userland), [tpt-local-emergency](https://github.com/tpt-solutions/tpt-local-emergency), [tpt-marketplace-nz](https://github.com/tpt-solutions/tpt-marketplace-nz), [tpt-millenium](https://github.com/tpt-solutions/tpt-millenium), [tpt-ms-ad](https://github.com/tpt-solutions/tpt-ms-ad), [tpt-ms-cp](https://github.com/tpt-solutions/tpt-ms-cp), [tpt-ms-ex](https://github.com/tpt-solutions/tpt-ms-ex), [tpt-payment-merchant](https://github.com/tpt-solutions/tpt-payment-merchant), [tpt-physics-engine](https://github.com/tpt-solutions/tpt-physics-engine), [tpt-poa-registry-nz](https://github.com/tpt-solutions/tpt-poa-registry-nz), [tpt-readme](https://github.com/tpt-solutions/tpt-readme), [tpt-resource-consent-nz](https://github.com/tpt-solutions/tpt-resource-consent-nz), [tpt-transport](https://github.com/tpt-solutions/tpt-transport), [tpt-w-mixer](https://github.com/tpt-solutions/tpt-w-mixer)
 
 </details>
 
@@ -544,7 +546,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 | [tpt-norma](https://github.com/tpt-solutions/tpt-norma)<!--s--> 🚧 77%<!--/s--> | Verified bounds on AI-agent actions (resource, time, safety) |
 | [tpt-axiom](https://github.com/tpt-solutions/tpt-axiom)<!--s--> 🚧 98%<!--/s--> | Probabilistic types and ZK circuit generation |
 | [tpt-augur](https://github.com/tpt-solutions/tpt-augur)<!--s--> 🚧 44%<!--/s--> | Probabilistic programming language with Bayesian inference |
-| [tpt-concord](https://github.com/tpt-solutions/tpt-concord)<!--s--> 🚧 96%<!--/s--> | Specs, claims and evidence as machine-readable conformance objects |
+| [tpt-concord](https://github.com/tpt-solutions/tpt-concord)<!--s--> 🚧 92%<!--/s--> | Specs, claims and evidence as machine-readable conformance objects |
 | [tpt-ichnos](https://github.com/tpt-solutions/tpt-ichnos)<!--s--> ⏳ 0%<!--/s--> | AI-native debugging and forensic replay for verified software |
 | [tpt-validex](https://github.com/tpt-solutions/tpt-validex)<!--s--> 🚧 97%<!--/s--> | Universal data-validation engine |
 | [tpt-av-test](https://github.com/tpt-solutions/tpt-av-test)<!--s--> ✅<!--/s--> | Conformance, fuzzing and benchmarking harness (media) |
@@ -786,7 +788,7 @@ Shared core: [tpt-teleop](https://github.com/tpt-solutions/tpt-teleop)<!--s--> �
 [tpt-aegis](https://github.com/tpt-solutions/tpt-aegis)<!--s--> 🚧 80%<!--/s--> (IAM) · [tpt-citadel](https://github.com/tpt-solutions/tpt-citadel)<!--s--> 🚧 96%<!--/s--> (secrets) · [tpt-identity](https://github.com/tpt-solutions/tpt-identity)<!--s--> 🚧 78%<!--/s--> (SSI/OIDC/VC) · [tpt-warden](https://github.com/tpt-solutions/tpt-warden)<!--s--> 🚧 62%<!--/s--> (LDAPv3) · [tpt-security-test](https://github.com/tpt-solutions/tpt-security-test)<!--s--> ✅<!--/s--> · [tpt-email](https://github.com/tpt-solutions/tpt-email)<!--s--> 🚧 90%<!--/s--> · [tpt-accessfix](https://github.com/tpt-solutions/tpt-accessfix)<!--s--> 🚧 97%<!--/s-->
 
 ### Business, finance & productivity
-[tpt-titan](https://github.com/tpt-solutions/tpt-titan)<!--s--> ✅<!--/s--> · [tpt-beacon](https://github.com/tpt-solutions/tpt-beacon)<!--s--> 🚧 92%<!--/s--> · [tpt-openledger](https://github.com/tpt-solutions/tpt-openledger)<!--s--> 🚧 96%<!--/s--> · [tpt-free-erp](https://github.com/tpt-solutions/tpt-free-erp)<!--s--> 🚧 99%<!--/s--> · [tpt-erp-rust](https://github.com/tpt-solutions/tpt-erp-rust)<!--s--> ✅<!--/s--> · [tpt-payments](https://github.com/tpt-solutions/tpt-payments)<!--s--> ❔<!--/s--> · [tpt-payment-merchant](https://github.com/tpt-solutions/tpt-payment-merchant)<!--s--> ❔<!--/s--> · [tpt-banking](https://github.com/tpt-solutions/tpt-banking)<!--s--> 🚧 94%<!--/s--> · [tpt-portus](https://github.com/tpt-solutions/tpt-portus)<!--s--> 🚧 56%<!--/s--> · [tpt-flow](https://github.com/tpt-solutions/tpt-flow)<!--s--> 🚧 84%<!--/s--> · [tpt-meridian](https://github.com/tpt-solutions/tpt-meridian)<!--s--> 🚧 94%<!--/s--> · [tpt-conduit](https://github.com/tpt-solutions/tpt-conduit)<!--s--> 🚧 84%<!--/s--> · [tpt-strategygraph](https://github.com/tpt-solutions/tpt-strategygraph)<!--s--> 🚧 90%<!--/s--> · [tpt-ms-ex](https://github.com/tpt-solutions/tpt-ms-ex)<!--s--> ❔<!--/s--> · [tpt-ms-ad](https://github.com/tpt-solutions/tpt-ms-ad)<!--s--> ❔<!--/s--> · [tpt-ms-cp](https://github.com/tpt-solutions/tpt-ms-cp)<!--s--> ❔<!--/s--> · [tpt-email-provider](https://github.com/tpt-solutions/tpt-email-provider)<!--s--> ✅<!--/s-->
+[tpt-titan](https://github.com/tpt-solutions/tpt-titan)<!--s--> ✅<!--/s--> · [tpt-beacon](https://github.com/tpt-solutions/tpt-beacon)<!--s--> 🚧 92%<!--/s--> · [tpt-openledger](https://github.com/tpt-solutions/tpt-openledger)<!--s--> 🚧 96%<!--/s--> · [tpt-free-erp](https://github.com/tpt-solutions/tpt-free-erp)<!--s--> 🚧 99%<!--/s--> · [tpt-erp-rust](https://github.com/tpt-solutions/tpt-erp-rust)<!--s--> ✅<!--/s--> · [tpt-payments](https://github.com/tpt-solutions/tpt-payments)<!--s--> 🚧 16%<!--/s--> · [tpt-payment-merchant](https://github.com/tpt-solutions/tpt-payment-merchant)<!--s--> ❔<!--/s--> · [tpt-banking](https://github.com/tpt-solutions/tpt-banking)<!--s--> 🚧 94%<!--/s--> · [tpt-portus](https://github.com/tpt-solutions/tpt-portus)<!--s--> 🚧 56%<!--/s--> · [tpt-flow](https://github.com/tpt-solutions/tpt-flow)<!--s--> 🚧 84%<!--/s--> · [tpt-meridian](https://github.com/tpt-solutions/tpt-meridian)<!--s--> 🚧 94%<!--/s--> · [tpt-conduit](https://github.com/tpt-solutions/tpt-conduit)<!--s--> 🚧 84%<!--/s--> · [tpt-strategygraph](https://github.com/tpt-solutions/tpt-strategygraph)<!--s--> 🚧 90%<!--/s--> · [tpt-ms-ex](https://github.com/tpt-solutions/tpt-ms-ex)<!--s--> ❔<!--/s--> · [tpt-ms-ad](https://github.com/tpt-solutions/tpt-ms-ad)<!--s--> ❔<!--/s--> · [tpt-ms-cp](https://github.com/tpt-solutions/tpt-ms-cp)<!--s--> ❔<!--/s--> · [tpt-email-provider](https://github.com/tpt-solutions/tpt-email-provider)<!--s--> ✅<!--/s-->
 
 ### Government & civic (incl. New Zealand)
 [tpt-government](https://github.com/tpt-solutions/tpt-government)<!--s--> ❔<!--/s--> · [tpt-gov-nz](https://github.com/tpt-solutions/tpt-gov-nz)<!--s--> 🚧 98%<!--/s--> · [tpt-gets-nz](https://github.com/tpt-solutions/tpt-gets-nz)<!--s--> ❔<!--/s--> · [tpt-datastack-nz](https://github.com/tpt-solutions/tpt-datastack-nz)<!--s--> 🚧 95%<!--/s--> · [tpt-healthcare-nz](https://github.com/tpt-solutions/tpt-healthcare-nz)<!--s--> 🚧 87%<!--/s--> · [tpt-credentials-nz](https://github.com/tpt-solutions/tpt-credentials-nz)<!--s--> ❔<!--/s--> · [tpt-poa-registry-nz](https://github.com/tpt-solutions/tpt-poa-registry-nz)<!--s--> ❔<!--/s--> · [tpt-will-estate-nz](https://github.com/tpt-solutions/tpt-will-estate-nz)<!--s--> ❔<!--/s--> · [tpt-resource-consent-nz](https://github.com/tpt-solutions/tpt-resource-consent-nz)<!--s--> ❔<!--/s--> · [tpt-marketplace-nz](https://github.com/tpt-solutions/tpt-marketplace-nz)<!--s--> ❔<!--/s--> · [tpt-law](https://github.com/tpt-solutions/tpt-law)<!--s--> 🚧 88%<!--/s--> · [tpt-court](https://github.com/tpt-solutions/tpt-court)<!--s--> 🚧 99%<!--/s--> · [tpt-police](https://github.com/tpt-solutions/tpt-police)<!--s--> ✅<!--/s--> · [tpt-emergency](https://github.com/tpt-solutions/tpt-emergency)<!--s--> ❔<!--/s--> · [tpt-local-emergency](https://github.com/tpt-solutions/tpt-local-emergency)<!--s--> ❔<!--/s--> · [tpt-smartcity](https://github.com/tpt-solutions/tpt-smartcity)<!--s--> ✅<!--/s--> · [tpt-transport](https://github.com/tpt-solutions/tpt-transport)<!--s--> ❔<!--/s--> · [tpt-power-utility](https://github.com/tpt-solutions/tpt-power-utility)<!--s--> 🚧 36%<!--/s--> · [tpt-water-utility](https://github.com/tpt-solutions/tpt-water-utility)<!--s--> ✅<!--/s--> · [tpt-school](https://github.com/tpt-solutions/tpt-school)<!--s--> ✅<!--/s--> · [tpt-library](https://github.com/tpt-solutions/tpt-library)<!--s--> ✅<!--/s--> · [tpt-doctor](https://github.com/tpt-solutions/tpt-doctor)<!--s--> ✅<!--/s--> · [tpt-cambium](https://github.com/tpt-solutions/tpt-cambium)<!--s--> 🚧 76%<!--/s-->
