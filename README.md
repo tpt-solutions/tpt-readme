@@ -13,13 +13,13 @@
 ## Overall progress
 
 <!-- PROGRESS:START -->
-**40,937 of 50,392 tasks complete — 81.2%** `████████████████░░░░`
+**40,778 of 50,214 tasks complete — 81.2%** `████████████████░░░░`
 
 | Completed | Remaining | Total | Repos tracked | Repos with no `todo.md` |
 |---:|---:|---:|---:|---:|
-| 40,937 | 9,455 | 50,392 | 361 | 35 |
+| 40,778 | 9,436 | 50,214 | 361 | 35 |
 
-<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-20 (UTC).</sub>
+<sub>Counted from `- [x]` / `- [ ]` checkboxes in each repo's `todo.md`. Updated 2026-11-21 (UTC).</sub>
 
 <details><summary>Per-repo progress</summary>
 
@@ -145,7 +145,6 @@
 | [tpt-fluids](https://github.com/tpt-solutions/tpt-fluids) | 119 | 6 | `██████████` 95% |
 | [tpt-fulcrum](https://github.com/tpt-solutions/tpt-fulcrum) | 79 | 4 | `██████████` 95% |
 | [tpt-teleop-construction](https://github.com/tpt-solutions/tpt-teleop-construction) | 98 | 5 | `██████████` 95% |
-| [tpt-kinetix](https://github.com/tpt-solutions/tpt-kinetix) | 176 | 9 | `██████████` 95% |
 | [tpt-des](https://github.com/tpt-solutions/tpt-des) | 97 | 5 | `██████████` 95% |
 | [tpt-teleop-space](https://github.com/tpt-solutions/tpt-teleop-space) | 150 | 8 | `█████████░` 95% |
 | [tpt-meridian](https://github.com/tpt-solutions/tpt-meridian) | 111 | 6 | `█████████░` 95% |
@@ -215,6 +214,7 @@
 | [tpt-armature](https://github.com/tpt-solutions/tpt-armature) | 110 | 12 | `█████████░` 90% |
 | [tpt-stratum](https://github.com/tpt-solutions/tpt-stratum) | 119 | 13 | `█████████░` 90% |
 | [tpt-layout](https://github.com/tpt-solutions/tpt-layout) | 124 | 14 | `█████████░` 90% |
+| [tpt-window](https://github.com/tpt-solutions/tpt-window) | 97 | 11 | `█████████░` 90% |
 | [tpt-perception](https://github.com/tpt-solutions/tpt-perception) | 105 | 12 | `█████████░` 90% |
 | [tpt-agriculture](https://github.com/tpt-solutions/tpt-agriculture) | 155 | 18 | `█████████░` 90% |
 | [tpt-crypto](https://github.com/tpt-solutions/tpt-crypto) | 179 | 21 | `█████████░` 90% |
@@ -294,7 +294,6 @@
 | [tpt-finder](https://github.com/tpt-solutions/tpt-finder) | 73 | 21 | `████████░░` 78% |
 | [tpt-lexicon](https://github.com/tpt-solutions/tpt-lexicon) | 72 | 21 | `████████░░` 77% |
 | [tpt-neuron](https://github.com/tpt-solutions/tpt-neuron) | 48 | 14 | `████████░░` 77% |
-| [tpt-window](https://github.com/tpt-solutions/tpt-window) | 85 | 25 | `████████░░` 77% |
 | [tpt-e-wasm](https://github.com/tpt-solutions/tpt-e-wasm) | 47 | 14 | `████████░░` 77% |
 | [tpt-moira](https://github.com/tpt-solutions/tpt-moira) | 104 | 31 | `████████░░` 77% |
 | [tpt-mesh](https://github.com/tpt-solutions/tpt-mesh) | 199 | 60 | `████████░░` 77% |
@@ -336,6 +335,7 @@
 | [tpt-filesystem](https://github.com/tpt-solutions/tpt-filesystem) | 64 | 46 | `██████░░░░` 58% |
 | [tpt-certus](https://github.com/tpt-solutions/tpt-certus) | 41 | 32 | `██████░░░░` 56% |
 | [tpt-portus](https://github.com/tpt-solutions/tpt-portus) | 41 | 32 | `██████░░░░` 56% |
+| [tpt-kinetix](https://github.com/tpt-solutions/tpt-kinetix) | 5 | 4 | `██████░░░░` 56% |
 | [tpt-mathica](https://github.com/tpt-solutions/tpt-mathica) | 21 | 17 | `██████░░░░` 55% |
 | [tpt-planetary](https://github.com/tpt-solutions/tpt-planetary) | 111 | 95 | `█████░░░░░` 54% |
 | [tpt-shell](https://github.com/tpt-solutions/tpt-shell) | 261 | 263 | `█████░░░░░` 50% |
@@ -680,7 +680,7 @@ The "prove it" layer: contracts, refinement/dependent types, solvers, and capabi
 ### Media & documents
 | Repo | What it is |
 |---|---|
-| [tpt-kinetix](https://github.com/tpt-solutions/tpt-kinetix)<!--s--> 🚧 95%<!--/s--> | Lock-free media processing engine (FFmpeg successor) |
+| [tpt-kinetix](https://github.com/tpt-solutions/tpt-kinetix)<!--s--> 🚧 55%<!--/s--> | Lock-free media processing engine (FFmpeg successor) |
 | [tpt-visual](https://github.com/tpt-solutions/tpt-visual)<!--s--> 🚧 98%<!--/s--> | GPU-accelerated video processing |
 | [tpt-cadence](https://github.com/tpt-solutions/tpt-cadence)<!--s--> 🚧 97%<!--/s--> | Zero-dependency audio codec suite |
 | [tpt-dsp](https://github.com/tpt-solutions/tpt-dsp)<!--s--> 🚧 98%<!--/s--> | Real-time-safe DSP for audio/RF/control |
